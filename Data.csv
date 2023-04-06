@@ -1,0 +1,1355 @@
+Sex,Age,Age-level,AgeG,Height,Education,Job,Marry,Blood,Bckground_history,Smoking,reading,writing,biomarker_1,biomarker_2,biomarker_3,Target
+Male,39,2,31-41,Low,College,No,Yes,24.2,No,Past,Middle,No,2366.62,650.02,97.97,No
+Female,39,2,31-41,Low,College,No,Yes,17.9,No,No,Middle,No,1434.3,378.17,49.17,No
+Male,60,4,51-61,High,High School,No,Yes,22.7,Yes,Current,Bad,Yes,2502.47,730.94,71.16,No
+Female,58,4,51-61,High,High School,No,Yes,26.6,Yes,No,Good,Yes,1545.18,850.95,72.77,No
+Female,53,4,51-61,High,College,No,Yes,19.7,Yes,No,Bad,Yes,2913.74,1094.14,61.03,No
+Male,24,1,<31,High,College,Yes,No,21,No,No,Bad,No,3284.34,642.36,146.4,Yes
+Female,53,4,51-61,Middle High,Graduate School,Yes,Yes,24,Yes,No,Bad,No,1846,1039.82,60.88,No
+Female,74,6,>70,High,High School,Yes,Yes,27.1,No,No,Good,Yes,1952.56,809.41,61.34,No
+Female,47,3,41-51,High,College,No,Yes,26.9,No,Past,Bad,No,1158.92,372.41,48.18,No
+Female,19,1,<31,High,High School,No,No,16,No,No,Middle,No,1171.88,653.93,69.72,No
+Male,67,5,61-71,High,College,No,Yes,24.6,No,Past,Good,No,2152.6,1419.32,113.51,No
+Female,65,5,61-71,High,College,Yes,Yes,22.8,No,No,Bad,Yes,1962.36,1460.79,91.98,No
+Female,39,2,31-41,High,Graduate School,No,Yes,18.9,No,Past,Bad,No,2545.04,1792.27,62.52,No
+Male,60,4,51-61,Middle High,College,No,Yes,25.1,Yes,Past,Middle,Yes,2471.06,813.35,80.51,No
+Female,56,4,51-61,Middle High,Two-Three Years College,No,Yes,23.4,Yes,No,Bad,Yes,1095.82,662.63,39.17,No
+Male,28,1,<31,Middle High,College,Yes,No,27.7,Yes,Past,Middle,No,3194.47,2482.72,221.51,No
+Female,26,1,<31,Middle High,College,No,No,22.9,Yes,No,Bad,No,739.32,557.83,41.99,Yes
+Male,47,3,41-51,High,College,No,Yes,21.9,Yes,Past,Middle,No,1824,2011.19,85.04,No
+Female,45,3,41-51,High,College,Yes,Yes,22,No,No,Bad,No,1601.47,2134.46,69.65,No
+Male,48,3,41-51,High,High School,No,Yes,23.8,No,No,Bad,No,1937.55,1036.98,65.24,No
+Female,37,2,31-41,High,College,No,Yes,19.3,Yes,No,Middle,No,1485.34,594.69,31.54,No
+Female,36,2,31-41,High,College,No,Yes,22.9,No,No,Bad,No,838.97,367.51,27.8,No
+Female,39,2,31-41,Middle Low,Two-Three Years College,No,Yes,25,No,No,Bad,No,923.6,443.58,35.04,Yes
+Male,64,5,61-71,Middle High,Graduate School,No,Yes,27,Yes,Past,Good,Yes,2018.56,1982.22,67.77,No
+Female,61,4,51-61,High,College,Yes,Yes,19.8,Yes,No,Bad,No,1749.71,1522.77,56.75,No
+Female,34,2,31-41,Middle High,College,No,No,17.8,Yes,No,Good,No,2033.89,1465.44,82.62,No
+Female,29,1,<31,Middle High,College,Yes,No,19.7,Yes,No,Good,No,1734.58,1084.3,79.83,No
+Male,70,5,61-71,Middle High,College,Yes,Yes,19.1,No,Past,Middle,No,2179.02,1181.37,68.76,No
+Female,67,5,61-71,Middle High,College,Yes,Yes,20.1,No,Past,Middle,No,1970.78,1062.45,62.74,No
+Male,58,4,51-61,High,College,No,Yes,26.5,No,Past,Bad,Yes,2768.05,1081.72,83.44,No
+Female,56,4,51-61,High,College,Yes,Yes,19.3,Yes,No,Bad,No,1977.11,2164.2,101.62,No
+Female,57,4,51-61,Middle High,High School,Yes,Yes,19.8,Yes,No,Bad,Yes,1361.22,1129.41,45.75,No
+Male,31,1,<31,High,Graduate School,No,No,32.2,Yes,Current,Bad,No,1897.75,1256.58,74.65,Yes
+Female,38,2,31-41,High,Two-Three Years College,No,Yes,25.6,Yes,No,Good,No,1896.19,862.62,75.11,No
+Male,37,2,31-41,High,College,No,Yes,31.2,Yes,No,Middle,No,3338.27,908.94,194.72,No
+Female,63,5,61-71,High,Two-Three Years College,Yes,Yes,23.2,Yes,No,Bad,Yes,2204.7,1255.97,77.15,No
+Male,44,3,41-51,High,Graduate School,No,Yes,27.9,Yes,Past,Bad,Yes,1441.03,865.36,50.48,No
+Female,34,2,31-41,High,College,No,Yes,21.3,No,No,Bad,No,1900.91,1343.64,81.63,No
+Male,62,5,61-71,Middle High,College,No,Yes,28.2,Yes,Past,Bad,Yes,3259.89,1955.76,136.58,No
+Male,45,3,41-51,High,College,No,Yes,23.9,Yes,Past,Bad,No,1765.98,1460.65,75.42,No
+Female,38,2,31-41,High,College,No,Yes,18.2,No,No,Middle,No,1264.91,321.24,42.91,Yes
+Male,76,6,>70,Middle High,High School,Yes,Yes,21,Yes,Past,Bad,Yes,1181.52,672.33,41.83,No
+Female,75,6,>70,Middle High,Middle School,Yes,Yes,19.9,Yes,No,Bad,Yes,1647.03,1339.05,69.01,No
+Male,70,5,61-71,High,Graduate School,Yes,Yes,25.1,Yes,Past,Middle,Yes,1655.66,1666.8,48.25,No
+Female,70,5,61-71,High,College,Yes,Yes,25.3,No,No,Bad,No,1952.19,1677.79,54.27,No
+Male,61,4,51-61,Middle Low,College,Yes,Yes,24.2,Yes,Past,Bad,No,1874.48,1068.74,71.37,Yes
+Female,57,4,51-61,Low,College,Yes,Yes,24,Yes,No,Bad,Yes,1514.27,1373.85,61.06,No
+Female,26,1,<31,Low,College,No,No,17.5,No,Current,Bad,No,1534.97,1178.33,53.21,No
+Male,80,6,>70,High,Graduate School,Yes,Yes,21.1,No,Past,Bad,No,1362.75,1035.16,48.63,No
+Female,57,4,51-61,High,Graduate School,No,Yes,21.6,Yes,No,Bad,Yes,1548.24,1359.96,71.65,No
+Male,59,4,51-61,High,Graduate School,No,Yes,24,No,No,Bad,No,3433.08,3293.34,120.81,No
+Female,52,4,51-61,High,High School,No,Yes,24.5,Yes,Current,Bad,Yes,1328.68,1447.11,57.4,Yes
+Female,24,1,<31,High,College,No,No,22.8,Yes,No,Bad,No,1668.08,575.03,45.67,No
+Male,58,4,51-61,Middle High,Graduate School,No,Yes,24.5,Yes,No,Good,No,2317.44,871.72,58.43,No
+Female,57,4,51-61,High,College,Yes,Yes,21.1,No,No,Bad,No,1091.77,646.29,49.12,No
+Female,22,1,<31,High,College,Yes,No,19.1,No,No,Middle,No,1045.55,562.01,48.71,No
+Male,61,4,51-61,High,Graduate School,No,Yes,25.5,Yes,Current,Middle,No,2315.06,1585.2,64.2,No
+Female,27,1,<31,High,College,No,No,22.7,Yes,No,Middle,No,2658.06,1048.72,69.11,No
+Male,71,5,61-71,High,Graduate School,Yes,Yes,20,No,No,Bad,Yes,3741.87,1727.59,159.32,No
+Female,69,5,61-71,High,College,Yes,Yes,22.7,Yes,No,Middle,Yes,2710.54,2233.63,114.14,No
+Male,32,2,31-41,High,College,No,No,23.1,Yes,Past,Good,No,1100.62,985.14,62.49,No
+Female,36,2,31-41,Middle High,College,Yes,Yes,21.1,Yes,No,Bad,No,1264.87,1011.04,31.5,Yes
+Male,70,5,61-71,High,College,Yes,Yes,22.9,No,No,Middle,No,2559.4,1779.29,86.17,No
+Female,60,4,51-61,Middle High,High School,Yes,Yes,26.2,Yes,No,Bad,Yes,1554.12,953.57,42.95,Yes
+Female,39,2,31-41,Middle High,College,Yes,No,20.4,No,No,Middle,No,2213.03,2017.86,103.88,No
+Female,40,2,31-41,High,College,No,Yes,18.6,Yes,No,Middle,No,1676.28,1472.74,48.69,No
+Female,65,5,61-71,High,College,Yes,Yes,23.3,Yes,No,Middle,Yes,1786.68,1735,56.87,No
+Male,67,5,61-71,High,College,No,Yes,27.1,Yes,No,Middle,Yes,1879.98,1231.51,52.38,No
+Male,71,5,61-71,High,High School,Yes,Yes,23.4,Yes,No,Good,Yes,2795.48,2178.28,94.01,Yes
+Female,66,5,61-71,High,High School,Yes,Yes,25.5,No,No,Bad,Yes,1814.92,834.81,74.18,No
+Female,57,4,51-61,Middle High,High School,No,Yes,28.5,Yes,No,Middle,Yes,1139.32,857.18,33.54,No
+Male,62,5,61-71,Middle High,College,No,Yes,25.7,Yes,Past,Middle,Yes,865.02,598.84,45.91,No
+Female,35,2,31-41,Middle High,College,No,No,24.6,Yes,No,Middle,No,1263.9,175.9,45.06,No
+Male,23,1,<31,Middle High,College,No,No,30.4,Yes,Current,Bad,No,1965.94,564.82,58.29,No
+Male,57,4,51-61,Middle High,College,No,Yes,25.4,Yes,Current,Middle,No,1927.07,700.09,73.44,No
+Female,53,4,51-61,Middle High,College,No,Yes,21,Yes,No,Bad,Yes,703.23,334.73,20.29,Yes
+Male,41,2,31-41,High,College,No,Yes,22.3,Yes,Current,Middle,No,3245.53,667.39,87.64,No
+Female,39,2,31-41,High,College,No,Yes,19.8,Yes,No,Middle,No,573.2,453.13,33.69,No
+Female,68,5,61-71,Middle High,Middle School,Yes,Yes,22.7,Yes,No,Good,Yes,1636.77,1349.78,67.99,No
+Male,49,3,41-51,Middle High,College,No,Yes,26.3,No,Past,Middle,No,1944.93,919.68,63.79,No
+Female,44,3,41-51,Middle High,College,No,Yes,17.1,Yes,No,Bad,No,1474.36,604.8,40.26,No
+Female,60,4,51-61,Low,College,Yes,Yes,24.4,No,No,Bad,No,1518.98,1039.43,36.1,Yes
+Male,34,2,31-41,Low,Two-Three Years College,No,No,19.5,No,Past,Bad,No,2167.67,258.65,63.5,No
+Male,60,4,51-61,Middle Low,High School,No,Yes,22.7,Yes,No,Bad,No,1637.75,664.73,48.58,No
+Female,80,6,>70,Middle High,Elementary School,Yes,Yes,22.5,Yes,No,Bad,No,953.96,592.47,33.1,No
+Male,64,5,61-71,High,High School,No,Yes,26.7,Yes,Current,Bad,Yes,2665.58,657.47,93.79,No
+Female,32,2,31-41,High,College,No,No,20.8,Yes,Past,Middle,No,919.25,458.87,25.67,Yes
+Female,51,3,41-51,Middle High,College,Yes,Yes,22,Yes,Past,Middle,No,2709.97,777.6,155.72,No
+Male,32,2,31-41,Middle High,Two-Three Years College,No,No,27.9,Yes,No,Bad,No,1803.6,820.81,89.31,No
+Female,28,1,<31,Middle High,High School,No,No,18.2,No,No,Bad,No,1330.62,685.95,46.91,No
+Male,60,4,51-61,Middle High,High School,No,Yes,27.4,Yes,No,Bad,No,1774.01,1047.37,51.87,No
+Male,25,1,<31,Middle High,College,Yes,No,23.3,No,No,Bad,No,1030.85,312.59,45.37,No
+Male,23,1,<31,Middle High,College,Yes,No,21.9,No,No,Middle,No,1449.57,875.16,79.07,No
+Male,61,4,51-61,High,High School,Yes,Yes,27.3,No,Past,Bad,Yes,2958.74,1076.52,87.68,No
+Female,22,1,<31,High,Two-Three Years College,No,No,24.3,Yes,No,Bad,No,2256.04,1412.45,86.69,No
+Female,38,2,31-41,Low,High School,No,Yes,24.4,No,Past,Bad,No,1184.53,957.09,41.68,Yes
+Male,40,2,31-41,Low,High School,No,Yes,22.7,Yes,No,Bad,No,3542.24,694.7,78.5,No
+Male,47,3,41-51,Middle High,Two-Three Years College,No,Yes,25.8,Yes,Past,Bad,Yes,2118.46,469.13,44.18,No
+Female,48,3,41-51,Middle High,Two-Three Years College,No,Yes,22,Yes,No,Bad,No,1250.17,653.03,63.3,No
+Male,59,4,51-61,Middle High,High School,No,Yes,24.4,Yes,Past,Bad,No,3394.53,763.17,82.22,No
+Female,57,4,51-61,Middle High,College,No,Yes,24.5,No,Current,Bad,Yes,928.47,861.24,31.25,No
+Male,28,1,<31,Middle High,High School,No,No,22.7,No,Current,Middle,No,1736.21,297.73,46.22,Yes
+Male,70,5,61-71,Middle High,Elementary School,No,Yes,26.6,No,No,Bad,Yes,1297.15,1078.18,51.44,No
+Male,43,3,41-51,Low,Two-Three Years College,Yes,Yes,33,Yes,Past,Bad,Yes,2088.3,678.08,47.64,Yes
+Female,41,2,31-41,Low,College,No,Yes,23,Yes,No,Bad,Yes,2449.8,1258.87,82.04,No
+Male,78,6,>70,High,Elementary School,Yes,Yes,23.7,Yes,Past,Bad,Yes,846.99,440.08,25.57,No
+Female,77,6,>70,High,No School  ,Yes,Yes,29.6,Yes,No,Bad,Yes,789.13,562.66,22.91,No
+Male,53,4,51-61,High,Graduate School,No,Yes,26.5,Yes,Past,Middle,No,1432.35,3046.34,65.92,No
+Female,52,4,51-61,High,College,Yes,Yes,20,Yes,No,Bad,No,1934.2,2436.57,65.73,Yes
+Female,24,1,<31,High,College,Yes,No,18.2,Yes,No,Bad,No,1177.28,1124.66,37.61,Yes
+Female,27,1,<31,High,College,No,No,19.8,Yes,No,Middle,No,2064.85,1189.08,61.42,No
+Male,25,1,<31,High,College,Yes,No,23.6,Yes,No,Good,No,2634.24,1180.38,126.86,No
+Female,55,4,51-61,High,High School,Yes,Yes,22.9,Yes,No,Bad,No,1799.77,1293.36,73.09,No
+Male,53,4,51-61,High,Graduate School,No,Yes,29.5,No,Past,Middle,Yes,1958.24,1129.44,66.38,No
+Female,53,4,51-61,High,College,Yes,Yes,24.7,No,No,Middle,No,1894.94,1463.99,100.47,No
+Female,24,1,<31,High,College,No,No,19.5,No,No,Bad,No,1793.64,1812.07,63.87,No
+Female,43,3,41-51,High,Graduate School,Yes,Yes,20.6,Yes,No,Bad,No,2661.11,1370.41,76.17,No
+Male,62,5,61-71,High,College,No,Yes,27.9,Yes,Past,Bad,Yes,1770.95,1371.76,71.47,No
+Female,61,4,51-61,High,College,Yes,Yes,26.2,Yes,No,Middle,No,1814.24,1181.91,71.63,No
+Female,33,2,31-41,High,High School,No,No,22.7,Yes,No,Bad,No,1899.93,1046.71,96.25,No
+Male,26,1,<31,High,College,Yes,No,32.4,Yes,Past,Bad,Yes,2324.36,487.37,91.12,No
+Female,59,4,51-61,High,Graduate School,No,Yes,25.1,Yes,No,Bad,No,1463.99,975.4,68.47,Yes
+Female,78,6,>70,High,High School,Yes,Yes,23.9,No,No,Bad,Yes,718.7,461.71,18.43,No
+Female,36,2,31-41,High,College,No,No,18.9,No,No,Good,No,1391.48,1353.21,131.28,Yes
+Female,60,4,51-61,High,College,Yes,Yes,19.4,Yes,No,Middle,No,1355.89,959.94,70.75,No
+Female,61,4,51-61,High,High School,Yes,Yes,25.7,Yes,No,Bad,No,1359.29,1110.7,66.98,No
+Male,69,5,61-71,High,College,Yes,Yes,25.3,Yes,Past,Bad,Yes,1331.86,647.59,57.41,No
+Male,43,3,41-51,High,Graduate School,No,Yes,32.5,No,Current,Bad,Yes,3093.45,915.45,68.85,No
+Female,39,2,31-41,High,Graduate School,No,Yes,21.5,No,No,Bad,No,2510.65,1477.14,103.61,No
+Female,43,3,41-51,High,Graduate School,No,Yes,23,Yes,Past,Bad,No,3133.39,1113.63,122.53,No
+Male,45,3,41-51,High,Graduate School,No,Yes,22,No,Past,Middle,No,2348.79,1040.87,92.66,No
+Female,39,2,31-41,Middle High,College,No,Yes,21.9,No,No,Middle,No,1800.22,432.49,71.71,No
+Female,48,3,41-51,Middle High,College,No,Yes,24.2,No,No,Middle,No,967.98,671.32,34.3,No
+Female,23,1,<31,Middle High,College,Yes,No,18.7,No,No,Bad,No,1023.04,792.31,28.66,No
+Male,56,4,51-61,High,Graduate School,No,Yes,22.2,Yes,Current,Bad,Yes,2050.69,1515.44,76.46,No
+Female,53,4,51-61,High,Graduate School,No,Yes,22.9,Yes,No,Bad,No,1588.17,966.11,54.52,No
+Male,58,4,51-61,Middle High,College,No,Yes,23.5,Yes,Past,Bad,Yes,1999.3,2021.64,64.66,No
+Female,57,4,51-61,Middle High,College,Yes,Yes,24.1,Yes,No,Bad,Yes,1433.51,913.25,26.72,No
+Female,39,2,31-41,High,Graduate School,No,Yes,22.8,Yes,No,Bad,No,3627.82,1621.37,212.81,No
+Male,38,2,31-41,High,College,No,Yes,20.6,No,No,Middle,No,2253.57,685.61,108.32,No
+Male,70,5,61-71,High,College,Yes,Yes,24.2,Yes,Past,Bad,Yes,2484.4,1994.24,129.3,No
+Female,66,5,61-71,High,Two-Three Years College,Yes,Yes,25.8,No,No,Good,Yes,3057.41,1895.36,152.11,No
+Female,35,2,31-41,High,High School,Yes,No,21.8,Yes,No,Bad,No,1271.71,710.71,81.31,No
+Female,80,6,>70,High,High School,No,Yes,21.2,Yes,No,Bad,Yes,2863.38,2080.53,138.99,No
+Male,76,6,>70,High,College,Yes,Yes,22.8,No,Past,Bad,Yes,1685.29,794.73,46.72,No
+Female,70,5,61-71,High,High School,Yes,Yes,23.1,Yes,No,Bad,No,1360.02,562.5,40.39,Yes
+Female,44,3,41-51,High,Two-Three Years College,No,Yes,25,Yes,No,Bad,Yes,1036.37,365.16,30.2,No
+Male,75,6,>70,High,High School,Yes,Yes,19.9,No,Current,Bad,Yes,633.27,352.3,18.17,No
+Female,71,5,61-71,High,Middle School,Yes,Yes,20.8,No,No,Middle,Yes,964.58,413.46,34.68,No
+Male,64,5,61-71,High,Graduate School,No,Yes,25.4,Yes,Past,Middle,Yes,1782.41,1057.18,51.92,No
+Female,63,5,61-71,High,College,Yes,Yes,20.9,Yes,No,Bad,Yes,2165.04,828.14,47.51,No
+Female,31,1,<31,High,Graduate School,No,No,19.5,No,No,Bad,No,1576.87,546.6,61.57,Yes
+Male,54,4,51-61,Middle Low,Graduate School,No,Yes,30.4,Yes,Current,Bad,Yes,2196.02,3515.23,86.07,No
+Female,51,3,41-51,Middle Low,College,Yes,Yes,19.4,Yes,No,Middle,No,2546.78,2202.07,86.4,No
+Male,22,1,<31,Middle Low,College,Yes,No,33.8,Yes,Current,Bad,No,2176.87,784.02,73.83,Yes
+Male,48,3,41-51,Middle High,College,No,Yes,26.5,Yes,Current,Middle,No,2287.6,429.75,60.75,No
+Female,48,3,41-51,Middle High,Two-Three Years College,No,Yes,34,No,No,Bad,No,1255.27,818.52,38.7,No
+Female,58,4,51-61,High,High School,No,Yes,20.6,No,No,Bad,Yes,868.99,642.98,31.15,No
+Male,28,1,<31,High,College,No,No,26.3,Yes,No,Bad,Yes,3588.26,1533.79,127.1,No
+Male,25,1,<31,High,College,Yes,No,22.1,Yes,No,Bad,No,2852.26,1478.86,142.55,No
+Female,28,1,<31,Low,Two-Three Years College,Yes,No,21.4,No,Current,Bad,No,1319.39,422.98,58.39,Yes
+Female,28,1,<31,Low,Two-Three Years College,Yes,No,20.8,No,Current,Bad,No,811.97,241.39,36.11,Yes
+Male,28,1,<31,Low,College,Yes,No,27.9,No,Current,Bad,No,2466.84,424.94,65.78,Yes
+Male,38,2,31-41,Middle High,College,No,Yes,20.6,Yes,Past,Middle,No,2747.3,1299.44,83.56,No
+Female,39,2,31-41,Middle High,College,No,Yes,24,No,Past,Bad,No,1118.53,690.17,54.75,Yes
+Female,50,3,41-51,Low,Two-Three Years College,Yes,Yes,20.6,Yes,No,Bad,No,1479.61,626.93,55.04,No
+Female,25,1,<31,Middle Low,Two-Three Years College,No,No,20.4,No,Current,Middle,No,1721.75,1117.38,59.91,No
+Male,45,3,41-51,Low,College,No,Yes,19.8,Yes,Current,Middle,No,2533.09,759.53,97.78,No
+Female,40,2,31-41,Low,College,No,Yes,20.9,Yes,No,Middle,No,2948.27,1002.69,141.6,No
+Male,36,2,31-41,Middle Low,High School,No,No,31.4,Yes,Past,Bad,No,3561,1212.14,119.17,No
+Male,30,1,<31,Middle High,College,No,No,22.4,No,Current,Bad,No,4090.86,1202.38,124.37,Yes
+Female,27,1,<31,Middle High,High School,No,No,22.7,Yes,No,Bad,No,1425.59,777.02,39.16,No
+Male,27,1,<31,Middle Low,High School,No,No,32.3,Yes,No,Bad,No,2415.29,886.62,48.84,No
+Male,64,5,61-71,Low,High School,Yes,Yes,30.3,Yes,No,Bad,No,3740.72,2508.66,127.31,No
+Female,62,5,61-71,Low,Elementary School,No,Yes,24.8,Yes,No,Bad,Yes,1460.18,549.26,44.04,Yes
+Female,47,3,41-51,Middle High,College,No,No,24.8,Yes,No,Good,No,1271.93,1133.32,48.4,No
+Male,39,2,31-41,Low,College,Yes,No,29.3,Yes,No,Bad,No,2888.72,689.07,115.18,No
+Female,57,4,51-61,Low,High School,Yes,No,18.5,No,Current,Bad,No,888.81,697.18,28.22,Yes
+Male,30,1,<31,Low,High School,Yes,No,22.3,No,Past,Bad,No,2480.76,1305.63,102.67,Yes
+Female,71,5,61-71,High,Elementary School,Yes,Yes,23.2,Yes,No,Bad,No,1701.36,594.77,59.04,No
+Female,24,1,<31,Middle High,College,No,No,23.8,Yes,No,Bad,No,1698.18,993.42,56.74,No
+Female,49,3,41-51,Middle High,High School,No,Yes,22.7,Yes,No,Bad,No,1348.06,1289.54,39.31,No
+Female,20,1,<31,Middle High,High School,Yes,No,23.2,No,Current,Middle,No,1079.36,303.7,20.67,Yes
+Female,80,6,>70,Middle High,Elementary School,No,Yes,22.9,Yes,No,Bad,Yes,979.44,199,28.94,No
+Male,77,6,>70,Middle High,Elementary School,No,Yes,18.8,No,Past,Bad,No,2286.49,981.08,110.54,Yes
+Male,69,5,61-71,Middle Low,Middle School,Yes,Yes,22.7,Yes,No,Good,Yes,1743.98,1426.01,44.06,No
+Female,60,4,51-61,Low,Middle School,No,Yes,24,No,No,Middle,Yes,1465.6,606.27,31.4,No
+Female,27,1,<31,Low,College,Yes,No,32.1,Yes,No,Bad,No,2829.7,984,93.73,Yes
+Male,22,1,<31,Low,High School,No,No,22.7,Yes,No,Bad,No,3625.87,1400.12,220.59,No
+Male,80,6,>70,Low,College,Yes,Yes,20.1,Yes,Past,Bad,Yes,1569.51,1033.13,54.08,No
+Male,35,2,31-41,Low,College,No,No,20.2,Yes,Current,Middle,No,2348.07,625.02,65.88,No
+Female,23,1,<31,Middle Low,College,Yes,No,21.6,No,Current,Bad,No,1779.99,1424.32,63.38,Yes
+Female,27,1,<31,Middle Low,Graduate School,Yes,No,23.2,No,Current,Bad,No,2273.78,1342.2,50.96,Yes
+Male,35,2,31-41,Low,Graduate School,No,No,24.1,Yes,Past,Bad,No,2253.34,748.01,96.33,Yes
+Male,52,4,51-61,Middle Low,High School,No,Yes,31.1,Yes,Past,Bad,Yes,2825.47,878.78,63.8,Yes
+Female,52,4,51-61,Low,High School,No,Yes,21.8,Yes,No,Middle,No,979.09,2064.77,42.8,No
+Male,24,1,<31,Middle Low,College,No,No,22.9,Yes,No,Middle,No,2331.84,1609.46,103.11,No
+Female,22,1,<31,Middle Low,Two-Three Years College,No,No,21.6,Yes,No,Bad,No,1228.91,649.83,35.6,No
+Male,78,6,>70,High,College,Yes,Yes,27.6,Yes,Past,Bad,Yes,2417.65,1301.05,101.49,No
+Female,75,6,>70,High,Elementary School,Yes,Yes,23.8,Yes,No,Bad,Yes,1127.85,762.47,43,No
+Male,71,5,61-71,Middle Low,College,No,No,24.4,No,Current,Bad,Yes,1794.98,1046.28,62.53,No
+Female,31,1,<31,Low,Two-Three Years College,Yes,No,22.7,Yes,Current,Bad,Yes,794.05,137.69,20.12,Yes
+Male,62,5,61-71,Low,High School,No,Yes,22.7,Yes,No,Bad,No,568.37,310.16,14.66,No
+Male,72,6,>70,Middle Low,High School,Yes,Yes,22.6,Yes,Past,Bad,Yes,1740.55,805.11,54.09,No
+Female,72,6,>70,High,Elementary School,No,Yes,20.2,No,No,Bad,Yes,1792.55,482.58,62.97,No
+Female,43,3,41-51,Middle Low,High School,No,No,22.7,Yes,No,Bad,No,1128.55,540.96,40.86,No
+Male,53,4,51-61,Middle High,High School,No,Yes,23.5,Yes,Current,Bad,Yes,2698.02,213.9,64.85,No
+Female,24,1,<31,Middle High,College,No,No,20.6,Yes,No,Middle,No,822.09,474.94,26.92,No
+Female,20,1,<31,Middle High,High School,Yes,No,24.8,Yes,No,Middle,No,620.07,202.57,26.15,Yes
+Female,54,4,51-61,Middle Low,Two-Three Years College,No,Yes,22.8,No,No,Middle,No,1177.98,723.45,41.77,No
+Male,53,4,51-61,Middle High,High School,No,Yes,23.8,Yes,Current,Bad,Yes,2205.81,988.04,110.62,No
+Male,27,1,<31,Middle Low,High School,No,No,26.4,No,Current,Bad,No,3309.15,1271.21,115.28,No
+Female,47,3,41-51,Low,Two-Three Years College,No,Yes,20.7,Yes,No,Bad,No,2040.14,2560.34,60.61,Yes
+Female,23,1,<31,Low,Two-Three Years College,No,No,21.5,No,No,Bad,No,1151.79,295.56,68.94,Yes
+Female,46,3,41-51,Low,College,No,Yes,22.1,No,Current,Middle,No,2148.31,3311.61,88.25,No
+Male,46,3,41-51,Low,High School,No,No,22.7,Yes,No,Bad,No,2692.95,2574.91,85.26,No
+Female,72,6,>70,Low,Middle School,Yes,Yes,27.9,No,No,Bad,Yes,1002.92,315.26,38.47,No
+Female,70,5,61-71,High,High School,No,Yes,22.7,Yes,No,Bad,No,1010.55,1124.91,51.22,No
+Female,42,3,41-51,Middle Low,Graduate School,No,No,20.4,Yes,Current,Bad,No,1487.7,1754.27,77.2,Yes
+Male,50,3,41-51,Low,Graduate School,No,Yes,33.9,No,No,Middle,No,1725.29,1185.29,102.03,No
+Female,47,3,41-51,Low,High School,Yes,Yes,27,Yes,No,Bad,No,1648.26,1895.04,109.41,No
+Male,24,1,<31,Low,College,Yes,No,44.5,No,No,Bad,No,1201.66,1087.26,86.25,No
+Male,22,1,<31,Low,College,No,No,29,No,No,Bad,No,1598.44,1758.13,83.3,No
+Female,25,1,<31,Middle High,College,No,No,23.6,No,No,Middle,No,1556.88,636.46,63.15,No
+Female,53,4,51-61,Middle High,High School,No,Yes,26.2,Yes,No,Bad,No,1043.45,363.5,64.11,No
+Female,21,1,<31,Middle High,College,No,No,20.3,No,No,Middle,No,1753.33,1005.07,90.75,Yes
+Female,57,4,51-61,High,Two-Three Years College,No,Yes,29.9,No,No,Middle,No,1639.35,686.05,77.45,No
+Female,29,1,<31,High,College,Yes,No,27.6,Yes,No,Middle,No,714.12,319.67,48.89,No
+Male,21,1,<31,High,College,Yes,No,23.1,Yes,Past,Middle,No,2122.76,1001.34,117.08,No
+Female,76,6,>70,Low,Elementary School,No,Yes,25.8,No,No,Bad,Yes,909.31,271.77,31.02,No
+Male,53,4,51-61,Low,High School,Yes,Yes,21,Yes,Current,Bad,Yes,3444.43,523.72,69.86,Yes
+Female,35,2,31-41,Middle High,College,No,Yes,24,Yes,No,Middle,No,2373.76,792.36,63.8,No
+Male,37,2,31-41,Middle High,Two-Three Years College,No,Yes,30.4,Yes,Past,Bad,Yes,8794.87,2215.51,483.64,No
+Female,65,5,61-71,High,Elementary School,No,Yes,27.6,Yes,No,Bad,Yes,2489.25,712.81,99.89,No
+Female,32,2,31-41,Middle High,Two-Three Years College,No,No,24.6,No,No,Middle,No,2277.91,987.88,65.86,No
+Male,60,4,51-61,Middle High,College,No,Yes,21.7,Yes,Past,Bad,Yes,2081.74,557.68,103.03,No
+Female,56,4,51-61,Middle High,College,No,Yes,23,Yes,No,Middle,Yes,2125.63,912.04,83.15,No
+Female,22,1,<31,Middle High,College,No,No,22.3,Yes,No,Bad,No,1885.42,1673.85,75.86,No
+Female,49,3,41-51,Middle Low,Graduate School,No,Yes,19.3,No,No,Bad,No,1717.57,418.32,47.87,No
+Male,45,3,41-51,Low,Graduate School,No,Yes,24.7,Yes,No,Bad,Yes,3150.24,1826.87,127.01,No
+Female,40,2,31-41,Low,College,Yes,Yes,20.9,Yes,No,Bad,No,1970.49,2040.45,78.15,No
+Male,43,3,41-51,Low,Graduate School,No,Yes,34.1,Yes,No,Bad,No,2095.32,898.64,56.53,No
+Female,42,3,41-51,Low,Two-Three Years College,Yes,Yes,22.2,Yes,No,Bad,No,1708.32,657.82,58.99,No
+Female,76,6,>70,Middle Low,High School,No,Yes,25.2,Yes,No,Bad,No,1538.37,941.23,57.17,No
+Female,49,3,41-51,Low,Two-Three Years College,No,Yes,18,Yes,No,Bad,No,1747.78,1538.78,91.42,No
+Female,65,5,61-71,Low,High School,No,Yes,21.8,Yes,Past,Bad,Yes,1110.86,902.72,56.41,Yes
+Male,73,6,>70,Middle Low,High School,No,Yes,24.6,Yes,Past,Bad,Yes,1131.09,314.26,50.02,No
+Female,67,5,61-71,Low,Elementary School,Yes,Yes,26.3,Yes,No,Bad,Yes,854.47,469.22,21.88,Yes
+Female,63,5,61-71,Middle High,High School,No,Yes,27.5,Yes,Past,Bad,Yes,1435.84,1004.96,62.41,No
+Male,54,4,51-61,Middle Low,College,No,Yes,25.9,Yes,Current,Bad,No,2016.67,486.93,66.19,Yes
+Female,48,3,41-51,Middle Low,Middle School,No,Yes,21.3,No,No,Bad,No,941.98,535.35,27.38,No
+Male,76,6,>70,Middle High,High School,No,Yes,21,No,Past,Bad,No,996.87,976.2,30.9,No
+Female,72,6,>70,Middle Low,High School,No,Yes,27.5,No,No,Bad,Yes,1754.49,1294.61,88.57,No
+Female,62,5,61-71,Middle High,Elementary School,No,Yes,25.5,Yes,No,Bad,Yes,1237.08,749.92,51.86,Yes
+Male,47,3,41-51,Low,High School,No,No,26.2,Yes,Past,Bad,Yes,2224.03,1346.95,93.68,No
+Male,59,4,51-61,Middle High,Graduate School,No,Yes,27.2,Yes,Current,Bad,Yes,2259.53,1636.52,136.3,No
+Female,57,4,51-61,Middle High,Two-Three Years College,Yes,Yes,23.9,No,No,Middle,No,1425.51,338.64,34.94,Yes
+Female,28,1,<31,Middle High,Graduate School,No,No,21.3,Yes,No,Middle,No,1484.12,476.84,93.73,No
+Male,27,1,<31,Middle High,College,No,No,22.2,Yes,No,Bad,Yes,2346.49,1359.07,44.24,Yes
+Male,80,6,>70,Low,High School,No,Yes,21.1,Yes,Past,Bad,No,559.88,173.81,17.63,No
+Female,73,6,>70,Low,High School,No,Yes,23.7,No,No,Bad,Yes,956.38,192.84,58.71,No
+Male,54,4,51-61,Middle Low,Two-Three Years College,No,Yes,25.9,Yes,Current,Bad,Yes,1611.86,1212.9,75.69,No
+Female,48,3,41-51,Middle Low,Two-Three Years College,Yes,Yes,25.3,No,Past,Bad,No,1417.92,841.28,66.82,No
+Male,26,1,<31,High,High School,Yes,No,29.5,Yes,Current,Bad,No,674.23,283.21,36.62,Yes
+Female,29,1,<31,High,College,No,No,19,Yes,No,Bad,No,2043.69,656.15,93.32,No
+Male,47,3,41-51,Middle High,High School,No,Yes,21.1,No,Current,Bad,No,2099.72,762.25,97.39,No
+Female,73,6,>70,High,High School,No,Yes,27.1,No,No,Bad,Yes,941.59,384.5,29.88,No
+Male,72,6,>70,Low,Middle School,Yes,Yes,24.6,Yes,Past,Bad,Yes,1715.28,552.97,56.09,No
+Female,71,5,61-71,Middle Low,Elementary School,Yes,Yes,24.3,Yes,No,Bad,Yes,1028.81,200.18,26.76,No
+Male,68,5,61-71,Middle Low,Middle School,No,Yes,27.8,No,Past,Bad,Yes,1327.67,399.84,42.24,No
+Female,57,4,51-61,Low,Middle School,Yes,Yes,26.6,Yes,No,Bad,Yes,617.83,648.18,19.42,No
+Male,80,6,>70,High,Middle School,Yes,Yes,27.2,Yes,Past,Bad,Yes,1990.26,467.51,79.21,No
+Female,79,6,>70,High,Elementary School,Yes,Yes,22,No,No,Bad,Yes,1056.82,642.05,42.84,No
+Female,55,4,51-61,Middle Low,High School,No,No,22.7,Yes,No,Bad,No,1028.78,813.21,56.2,No
+Male,72,6,>70,Middle Low,Elementary School,Yes,Yes,25.6,No,Past,Bad,Yes,1240.76,797.83,35.36,No
+Female,68,5,61-71,Middle Low,Elementary School,No,Yes,23.5,Yes,No,Bad,Yes,617.42,348.08,23.46,No
+Male,61,4,51-61,Middle High,High School,No,Yes,24.8,No,Past,Middle,No,1620.88,595.91,69.69,No
+Female,51,3,41-51,Middle Low,High School,Yes,Yes,31.9,No,No,Bad,Yes,2557.55,588.46,92.2,Yes
+Female,36,2,31-41,Middle Low,High School,Yes,Yes,25.2,Yes,Past,Bad,No,2927.67,928.1,117.56,No
+Male,39,2,31-41,Middle Low,College,No,Yes,24,Yes,Past,Bad,No,2423.07,912.9,93.71,No
+Female,37,2,31-41,Middle Low,College,Yes,Yes,25.3,Yes,No,Bad,Yes,2586.91,1176.24,107.61,No
+Male,80,6,>70,High,Elementary School,Yes,Yes,23.6,Yes,No,Bad,Yes,1350.96,288.26,37.75,No
+Female,62,5,61-71,Middle Low,Elementary School,No,Yes,25.4,Yes,No,Bad,Yes,1414.82,529.62,50.76,No
+Female,35,2,31-41,Low,Two-Three Years College,Yes,No,23.8,Yes,No,Bad,No,1731.78,603.28,90.62,No
+Male,22,1,<31,Low,Two-Three Years College,No,No,27.1,Yes,Past,Middle,No,2172.49,723.9,101.05,No
+Female,57,4,51-61,Middle Low,Middle School,No,Yes,25,Yes,No,Bad,No,1944.32,899.76,50.68,No
+Female,56,4,51-61,High,College,Yes,Yes,25.2,Yes,Past,Middle,Yes,3037.54,1637.27,100.48,No
+Female,20,1,<31,High,College,No,No,21.6,No,No,Bad,No,1441.37,608.29,68.13,No
+Male,58,4,51-61,High,High School,No,Yes,23.9,Yes,Past,Bad,Yes,6309.73,1361.59,280.09,No
+Female,26,1,<31,High,High School,Yes,No,29.7,Yes,Current,Bad,No,2248.23,838.14,68.26,Yes
+Female,56,4,51-61,Middle Low,College,No,Yes,25.7,Yes,No,Bad,No,2318.57,1953.13,68.88,No
+Male,60,4,51-61,Middle Low,College,No,Yes,22.8,No,Current,Bad,No,2564.2,1920.83,110.84,No
+Female,28,1,<31,Middle Low,College,No,No,22,Yes,Past,Bad,No,1749.58,471.71,56.35,No
+Female,70,5,61-71,High,High School,No,No,25.4,Yes,No,Bad,Yes,1690.57,1532.66,76.61,No
+Male,39,2,31-41,Low,Two-Three Years College,No,Yes,20.7,Yes,No,Bad,No,1002.07,259.76,31.8,No
+Female,39,2,31-41,Low,High School,Yes,Yes,22.6,No,Past,Bad,No,777.03,868.03,23.77,No
+Male,78,6,>70,High,High School,No,Yes,23.2,Yes,Past,Bad,Yes,3607.17,2092.8,143.02,No
+Female,74,6,>70,Middle High,High School,No,Yes,25.1,Yes,No,Bad,Yes,1594.62,751.38,57.42,No
+Male,71,5,61-71,Middle High,High School,No,Yes,19.1,No,Past,Bad,No,2492.66,2320.88,89.29,No
+Female,66,5,61-71,Middle High,High School,Yes,Yes,19.6,Yes,No,Bad,Yes,2050.59,1831.3,71.9,No
+Male,52,4,51-61,Middle High,High School,No,Yes,24.9,No,Past,Good,No,2518.59,1009.65,78.22,No
+Female,50,3,41-51,Middle High,High School,Yes,Yes,23.1,Yes,No,Bad,No,1101.15,769.32,52.91,No
+Female,21,1,<31,Middle High,Two-Three Years College,Yes,No,22.8,No,No,Bad,No,2196.25,1150.54,132.67,No
+Female,19,1,<31,Middle High,College,Yes,No,17.6,No,No,Good,No,943.94,212.44,31.86,No
+Male,62,5,61-71,High,Graduate School,No,Yes,23.8,Yes,Current,Bad,No,2403.42,1296.14,104.42,Yes
+Female,59,4,51-61,High,High School,Yes,Yes,21.2,Yes,No,Middle,Yes,658.26,915.96,32.13,Yes
+Male,29,1,<31,High,College,No,No,24.4,No,Current,Bad,No,2927.48,1401.21,120.97,Yes
+Female,51,3,41-51,Middle Low,Graduate School,No,Yes,23.6,Yes,No,Bad,No,1719.44,1213.27,96.79,Yes
+Female,21,1,<31,Middle High,College,Yes,No,25.6,No,No,Middle,No,806.23,429.01,25.43,Yes
+Male,33,2,31-41,Middle High,Two-Three Years College,No,No,39.2,Yes,Current,Bad,No,1030.7,248.62,36.39,Yes
+Male,70,5,61-71,Middle High,High School,No,Yes,23.8,No,Past,Bad,Yes,1803.15,885.16,42.85,Yes
+Female,60,4,51-61,Middle Low,High School,No,Yes,28.5,Yes,No,Bad,Yes,1723.86,878.07,41.72,Yes
+Male,38,2,31-41,Middle Low,College,Yes,No,25.5,Yes,Past,Bad,No,1814.57,993.17,65.83,Yes
+Female,79,6,>70,Middle High,High School,No,Yes,17.7,Yes,No,Bad,No,1630.65,638.07,64.1,No
+Female,52,4,51-61,Middle Low,High School,No,Yes,24.1,Yes,No,Bad,Yes,924.11,264.64,35.06,No
+Female,27,1,<31,Middle High,College,Yes,No,22.3,Yes,No,Bad,No,813.27,446.32,48.85,Yes
+Male,27,1,<31,Middle Low,College,No,No,26.9,No,Past,Bad,No,1723.89,1296.59,102.24,Yes
+Female,80,6,>70,Low,High School,No,Yes,23.7,Yes,No,Bad,Yes,2215.54,824.37,53.38,No
+Female,35,2,31-41,Low,College,Yes,Yes,19.5,Yes,No,Bad,No,2378.51,1336.43,67.32,Yes
+Female,32,2,31-41,Middle High,Two-Three Years College,No,No,26.4,No,No,Bad,No,321.58,15.02,6.08,No
+Male,30,1,<31,Middle High,College,No,No,24.3,No,Past,Middle,No,2602.88,3231.07,171.6,No
+Female,59,4,51-61,Middle Low,High School,No,Yes,22.8,No,No,Bad,No,1443.02,1104.94,58.75,No
+Female,48,3,41-51,Low,College,No,Yes,21.7,No,Past,Middle,No,1427.02,1340.66,62.38,No
+Male,75,6,>70,Low,Middle School,Yes,Yes,29.8,No,No,Middle,Yes,1800.91,932.58,70.32,No
+Female,71,5,61-71,Low,High School,No,Yes,28.6,No,No,Bad,Yes,1353.87,1255.69,50.58,No
+Male,49,3,41-51,Middle Low,Graduate School,No,Yes,34.1,Yes,Past,Bad,Yes,1396.45,1982.97,42.78,Yes
+Female,51,3,41-51,Middle Low,College,Yes,Yes,19.9,Yes,No,Bad,No,849.03,1193.23,23.9,No
+Female,46,3,41-51,High,College,Yes,Yes,27,Yes,No,Bad,Yes,1078.6,1073.7,62.37,No
+Male,80,6,>70,Middle High,College,Yes,Yes,23.1,Yes,Current,Bad,Yes,1901.25,636.88,48.81,Yes
+Female,70,5,61-71,Middle High,High School,Yes,Yes,22.1,No,No,Bad,Yes,2303.55,1286.76,81.06,No
+Male,41,2,31-41,Middle High,College,No,No,25.9,Yes,Current,Bad,Yes,3435.97,1783.63,115.09,No
+Female,80,6,>70,Middle Low,Elementary School,Yes,Yes,23.8,Yes,No,Bad,Yes,1190.03,560.67,31.68,No
+Female,34,2,31-41,High,Graduate School,No,No,19,Yes,No,Middle,No,1310.86,1162.38,56.81,No
+Female,33,2,31-41,Low,Graduate School,Yes,No,30.8,Yes,Past,Bad,No,1839.55,746.97,75.06,No
+Male,49,3,41-51,Low,College,No,Yes,25.2,Yes,Past,Bad,Yes,2100.03,397.7,71.98,No
+Female,48,3,41-51,Low,Two-Three Years College,No,Yes,20.9,Yes,No,Middle,No,1639.52,433.64,65.3,No
+Female,20,1,<31,Low,College,Yes,No,24.1,Yes,No,Middle,No,1952.75,527.93,58.69,No
+Male,80,6,>70,Middle Low,High School,Yes,Yes,23.6,No,No,Bad,No,2716.5,3260.79,128.79,No
+Female,80,6,>70,Middle High,High School,Yes,Yes,22.7,No,No,Bad,Yes,1836.82,1884.25,89.77,No
+Female,49,3,41-51,Low,Two-Three Years College,No,Yes,25.2,Yes,No,Good,No,1838.91,699.09,57.23,No
+Male,23,1,<31,Middle Low,Two-Three Years College,Yes,No,27,No,Current,Bad,No,2140.2,2128.06,61.07,No
+Female,20,1,<31,Low,High School,No,No,17,No,Past,Middle,No,1910.12,1310.63,72.57,No
+Female,52,4,51-61,Middle High,College,No,Yes,24.6,Yes,No,Good,No,2269.9,778.98,105.2,No
+Female,22,1,<31,Middle High,College,Yes,No,18.8,No,No,Bad,No,1953.86,321.38,76.37,No
+Male,19,1,<31,Middle High,Two-Three Years College,No,No,21.2,No,Current,Bad,No,2436.35,689.28,109.84,No
+Female,76,6,>70,Middle High,Middle School,Yes,Yes,28.2,Yes,No,Middle,Yes,1438.55,532.86,68.39,No
+Male,28,1,<31,High,College,No,No,23.8,No,Current,Middle,No,3648.69,2455.3,100.19,No
+Female,25,1,<31,Low,College,Yes,No,20.8,No,Current,Bad,No,977.7,628.53,40.43,Yes
+Male,60,4,51-61,Middle Low,High School,No,Yes,27.3,Yes,Current,Bad,Yes,2751.1,1342.24,99.34,Yes
+Male,32,2,31-41,Low,High School,No,Yes,25.1,Yes,Past,Bad,No,1473.25,330.46,43.45,No
+Female,33,2,31-41,Low,Two-Three Years College,Yes,Yes,27.7,Yes,Past,Bad,No,285.34,464.07,20.71,Yes
+Female,37,2,31-41,Middle High,Two-Three Years College,No,Yes,19.6,Yes,No,Middle,No,1334.31,464.52,44.34,No
+Female,60,4,51-61,Low,Graduate School,Yes,Yes,23.7,No,Past,Bad,No,1278.29,2112.1,57.19,No
+Female,39,2,31-41,High,College,No,No,19.4,No,No,Bad,No,2101.22,1414.48,67.33,No
+Male,70,5,61-71,High,College,No,Yes,23.3,Yes,Past,Middle,No,1338.41,751.56,55.2,No
+Female,64,5,61-71,High,College,Yes,Yes,21.2,No,No,Bad,No,2056.23,1440.76,65.89,Yes
+Female,47,3,41-51,Middle High,College,Yes,Yes,22.7,Yes,No,Bad,No,2032.32,379.95,45.46,Yes
+Male,46,3,41-51,Low,Graduate School,No,No,23.4,Yes,Current,Bad,No,1684.69,926.27,82.92,Yes
+Female,42,3,41-51,Middle High,Two-Three Years College,No,No,27.4,Yes,Past,Bad,Yes,1364.33,960.79,44.65,Yes
+Male,77,6,>70,Middle Low,High School,Yes,Yes,18.9,No,Current,Bad,Yes,2763.13,1097.64,81.45,No
+Female,76,6,>70,Middle Low,No School  ,Yes,Yes,24.9,No,No,Bad,Yes,912.18,737.29,29.1,No
+Female,70,5,61-71,High,High School,No,Yes,25.1,Yes,No,Bad,Yes,2095.6,828.85,86.03,Yes
+Female,42,3,41-51,Middle High,College,Yes,Yes,22.3,Yes,No,Bad,No,3314.6,1399.74,134.49,No
+Male,70,5,61-71,High,College,No,Yes,24.2,Yes,No,Bad,Yes,3056.63,1537.65,121.59,No
+Male,32,2,31-41,High,College,No,Yes,23.6,Yes,Past,Bad,No,3786.81,2274.15,140.14,Yes
+Female,31,1,<31,High,College,No,Yes,20.9,Yes,No,Middle,No,1759.56,2656.35,66.45,No
+Female,31,1,<31,Middle High,College,No,Yes,23.6,Yes,No,Bad,No,1824.76,530.87,72.05,Yes
+Male,36,2,31-41,Middle High,Graduate School,No,Yes,26.9,No,No,Bad,No,2479.54,1823.89,113.87,No
+Male,29,1,<31,Middle High,Two-Three Years College,No,No,23.3,Yes,Current,Bad,No,2274.12,1343.99,93.75,No
+Male,71,5,61-71,Middle Low,High School,No,Yes,23,Yes,Past,Bad,Yes,1878.87,762.63,82.12,No
+Female,69,5,61-71,Middle Low,High School,Yes,Yes,22,No,No,Bad,No,1194.17,395.49,56.72,Yes
+Male,40,2,31-41,Middle Low,College,No,Yes,31.8,No,Past,Middle,No,2858.37,787.98,102.39,Yes
+Female,40,2,31-41,Middle Low,Two-Three Years College,Yes,Yes,19.8,Yes,No,Middle,No,1004.29,602.76,45.39,No
+Male,52,4,51-61,Middle Low,High School,No,Yes,22.7,Yes,No,Bad,No,3019.25,1398.86,109.38,No
+Female,52,4,51-61,Middle Low,High School,Yes,Yes,22.8,No,No,Bad,No,1308.23,457.83,42.76,No
+Female,24,1,<31,Middle High,College,No,No,20.6,Yes,No,Bad,No,1742.9,1906.52,78.64,Yes
+Female,29,1,<31,High,College,No,Yes,20.5,Yes,No,Middle,No,1466.75,486.36,36.44,No
+Male,33,2,31-41,High,College,No,Yes,26.3,Yes,No,Middle,No,2776.47,921.14,96.34,No
+Male,62,5,61-71,Middle Low,High School,No,Yes,24.9,Yes,Past,Bad,Yes,1841.35,1078.2,76.22,No
+Female,61,4,51-61,Middle Low,High School,Yes,Yes,22.2,No,No,Bad,No,2034.75,1520.33,87.04,Yes
+Male,80,6,>70,High,High School,No,Yes,28.4,No,Current,Bad,No,785.41,272.92,24.77,No
+Female,79,6,>70,High,Elementary School,Yes,Yes,23.4,Yes,No,Bad,Yes,1060.81,587.05,43.67,No
+Male,67,5,61-71,Low,Middle School,No,Yes,24.4,No,Past,Middle,No,1568.53,983.67,57.86,No
+Female,73,6,>70,Middle High,Elementary School,Yes,Yes,26.7,No,No,Bad,No,1459.11,634.96,41.35,No
+Female,48,3,41-51,Low,High School,Yes,Yes,22,Yes,Past,Bad,Yes,1882.88,863.53,58.22,Yes
+Female,67,5,61-71,Low,High School,Yes,Yes,21.7,Yes,No,Bad,Yes,1386.42,533.08,56.04,No
+Male,59,4,51-61,Middle Low,College,No,Yes,22.7,Yes,Past,Bad,Yes,3012.24,1838.07,138.47,No
+Female,47,3,41-51,Middle Low,Graduate School,No,Yes,19.4,Yes,No,Bad,No,1353.36,991.36,52.68,No
+Female,23,1,<31,Middle Low,College,No,No,24,No,No,Middle,No,1578.54,893.16,61.06,No
+Male,47,3,41-51,High,Graduate School,No,Yes,21.5,No,Past,Bad,Yes,1803.45,974.66,56.51,No
+Female,45,3,41-51,High,College,No,Yes,19.3,Yes,No,Bad,No,2205.87,1061.32,76.71,No
+Female,65,5,61-71,Middle High,Graduate School,No,Yes,22.9,Yes,No,Bad,Yes,2455.04,1237.88,88.98,No
+Male,49,3,41-51,High,College,No,Yes,25.3,Yes,No,Bad,No,1934.8,1595.5,100.33,No
+Female,47,3,41-51,High,College,Yes,Yes,20.4,Yes,No,Bad,No,1455.6,1158.57,95.73,No
+Female,22,1,<31,High,College,Yes,No,21.1,No,No,Bad,No,2679.49,1042.64,137.91,No
+Female,21,1,<31,High,College,Yes,No,19.7,No,No,Bad,No,1583.58,559.83,66.55,No
+Male,60,4,51-61,High,High School,Yes,Yes,33.2,No,Past,Bad,Yes,1098.86,1056.48,28.38,No
+Female,58,4,51-61,High,High School,No,Yes,24.9,Yes,No,Bad,Yes,1391.93,490.82,57.93,Yes
+Male,48,3,41-51,Low,Two-Three Years College,No,Yes,25.1,Yes,No,Middle,No,2122.11,1379.12,102.94,No
+Female,40,2,31-41,Middle Low,Two-Three Years College,Yes,Yes,21.6,Yes,No,Good,No,1025.86,249,38.76,No
+Female,51,3,41-51,Middle High,College,No,Yes,19.4,Yes,No,Bad,No,1555.47,953.87,44.57,No
+Male,54,4,51-61,Middle High,High School,No,Yes,20.4,No,Past,Bad,Yes,3881.29,684.24,145.9,No
+Female,49,3,41-51,Middle High,High School,No,Yes,20.7,Yes,No,Bad,Yes,1158.39,793.47,32.03,No
+Female,55,4,51-61,Middle Low,High School,Yes,Yes,19.7,Yes,No,Bad,No,2295.83,1552.12,62.15,No
+Female,29,1,<31,Low,College,No,No,17.7,No,No,Middle,No,1619.53,1165.45,51.55,No
+Male,77,6,>70,Low,Middle School,Yes,Yes,18.6,No,Past,Bad,No,1186.13,369.74,46.55,No
+Female,74,6,>70,High,No School  ,Yes,Yes,23.9,No,No,Bad,Yes,1495.01,775.98,71.4,No
+Female,58,4,51-61,High,High School,Yes,Yes,21.2,Yes,No,Bad,No,1033.56,648.34,34.51,No
+Male,61,4,51-61,High,High School,No,Yes,28.9,Yes,No,Bad,Yes,2574.66,1181.32,95.24,No
+Female,28,1,<31,High,Two-Three Years College,No,No,17.9,No,No,Middle,No,2112.46,1010.5,59.18,No
+Male,40,2,31-41,High,College,No,Yes,23.7,No,Past,Bad,No,1067.67,1052.42,30.95,No
+Female,37,2,31-41,High,College,Yes,Yes,21.5,No,No,Good,No,2789.81,1866.27,104.18,No
+Female,44,3,41-51,High,College,No,No,22.6,Yes,No,Middle,No,2063.47,1168.95,72.81,No
+Male,71,5,61-71,High,High School,Yes,Yes,24.4,Yes,Past,Bad,Yes,2320.26,3155.95,73.73,No
+Female,72,6,>70,High,Two-Three Years College,Yes,Yes,24.1,Yes,No,Bad,Yes,1716.72,1817.53,56.37,No
+Male,47,3,41-51,Middle Low,High School,No,Yes,23.2,Yes,Current,Middle,Yes,3157.93,495.4,127.14,No
+Female,41,2,31-41,Middle Low,High School,Yes,Yes,22.8,Yes,No,Bad,No,1442.18,331.79,43.98,No
+Male,50,3,41-51,Middle High,High School,No,Yes,22.7,Yes,No,Bad,No,1835.65,723.99,54.69,No
+Female,46,3,41-51,Middle High,High School,No,Yes,21.6,No,No,Bad,No,962.94,851.32,41.13,No
+Male,58,4,51-61,Middle Low,College,No,Yes,22.1,No,Current,Bad,No,3246.16,1907.9,89.06,Yes
+Female,54,4,51-61,Middle Low,College,No,Yes,22.3,Yes,Past,Bad,No,2385.36,1936.26,77.17,No
+Male,29,1,<31,Middle Low,College,No,No,24.6,Yes,Current,Bad,No,4356.5,2054.7,149.34,No
+Female,72,6,>70,Low,High School,Yes,Yes,24.3,Yes,No,Bad,Yes,1639.77,391.58,39.83,Yes
+Female,34,2,31-41,Low,Two-Three Years College,Yes,Yes,28,No,Current,Bad,Yes,1555.98,93.49,191.72,Yes
+Female,36,2,31-41,Low,College,Yes,Yes,19.5,No,No,Middle,No,1518.86,1155.98,43.83,No
+Female,62,5,61-71,Middle Low,High School,Yes,Yes,22.5,Yes,No,Bad,Yes,1540.38,858.68,44.33,No
+Male,54,4,51-61,High,High School,No,Yes,22.7,Yes,No,Bad,No,1859.08,1320.66,69.46,No
+Female,49,3,41-51,High,High School,No,Yes,26.4,Yes,No,Bad,No,1440.07,1013.66,47.34,Yes
+Male,33,2,31-41,Middle Low,College,No,Yes,25,No,Current,Bad,No,3573.87,1903.78,132.91,Yes
+Female,32,2,31-41,Middle Low,Two-Three Years College,Yes,Yes,20.3,Yes,No,Middle,No,2925.44,890.85,76.93,Yes
+Male,56,4,51-61,Low,College,No,Yes,24.1,Yes,Past,Bad,Yes,1054.42,663.19,45.9,No
+Female,50,3,41-51,Low,High School,No,Yes,22.9,Yes,No,Bad,No,1774.33,1871.73,72.57,Yes
+Male,58,4,51-61,Middle Low,High School,No,Yes,29.2,No,Current,Bad,Yes,1580.36,1266.46,49.07,Yes
+Female,53,4,51-61,Middle Low,High School,No,Yes,26.5,Yes,No,Bad,Yes,859.23,989.14,24.92,Yes
+Male,23,1,<31,Middle Low,Graduate School,No,No,22.8,Yes,No,Bad,No,1423.89,593.01,45.65,Yes
+Male,61,4,51-61,High,Two-Three Years College,No,Yes,24.9,No,Past,Good,Yes,2736.92,1507.31,68.66,No
+Female,61,4,51-61,High,High School,No,Yes,21.6,Yes,No,Middle,No,1514.84,961.14,32.89,No
+Female,34,2,31-41,High,Graduate School,Yes,No,21.2,Yes,No,Middle,No,2447.22,1382.66,81.5,No
+Female,54,4,51-61,Middle High,High School,No,Yes,23.6,Yes,No,Middle,No,434.12,156.79,13.44,No
+Male,32,2,31-41,Middle High,High School,No,Yes,22.7,Yes,No,Bad,No,4529.37,1885.97,241.06,No
+Female,33,2,31-41,Middle High,College,Yes,Yes,18.1,Yes,No,Middle,No,3358.93,1486.82,121.24,No
+Male,50,3,41-51,Middle High,Two-Three Years College,No,Yes,25.7,No,No,Bad,No,1315.4,690.03,43.88,No
+Female,47,3,41-51,Middle High,High School,No,Yes,22.7,Yes,No,Bad,No,1488.41,457.1,37.36,No
+Male,61,4,51-61,Middle Low,Two-Three Years College,No,Yes,23.1,Yes,Past,Middle,No,1723.15,1462.18,52.7,No
+Female,57,4,51-61,Middle Low,High School,Yes,Yes,18.9,Yes,No,Bad,No,1443.43,1346.36,52.18,No
+Male,53,4,51-61,Middle High,Two-Three Years College,No,Yes,23.9,Yes,No,Middle,No,2579.46,1062.92,135.15,No
+Female,51,3,41-51,Middle High,Two-Three Years College,No,Yes,20.5,Yes,No,Bad,No,2453.06,717.26,100.68,No
+Female,22,1,<31,Middle High,College,No,No,21.4,Yes,No,Bad,No,1596.43,634.47,73.93,Yes
+Female,20,1,<31,Middle High,College,Yes,No,28.8,No,Past,Middle,No,1494.39,814.08,54.47,No
+Male,58,4,51-61,High,College,No,Yes,23.8,Yes,Past,Middle,No,3258.43,2125.17,114.92,No
+Female,54,4,51-61,High,College,No,Yes,22.8,No,No,Bad,Yes,2059.02,1704.4,87.7,No
+Male,27,1,<31,High,College,Yes,No,27.8,Yes,No,Bad,No,1945.3,1119.56,179.58,No
+Female,24,1,<31,High,College,Yes,No,21.6,Yes,No,Good,No,1561.69,1353.1,89.72,No
+Male,41,2,31-41,Middle Low,College,No,Yes,25.3,No,No,Bad,No,3021,2159.16,127.5,No
+Female,37,2,31-41,Middle Low,High School,No,Yes,23.9,Yes,No,Middle,No,2459.73,1211.14,96.25,No
+Female,36,2,31-41,High,College,Yes,Yes,17,Yes,No,Bad,No,1687.29,930.92,66.96,Yes
+Female,41,2,31-41,Middle Low,College,No,No,29.3,Yes,No,Middle,No,1929.98,1209.19,87.28,Yes
+Male,76,6,>70,High,College,Yes,Yes,24,No,Current,Bad,Yes,3402.91,1277.38,122.68,No
+Female,72,6,>70,High,Middle School,Yes,Yes,29,No,No,Bad,Yes,1156.76,723.73,48.66,No
+Female,58,4,51-61,Middle Low,High School,No,Yes,26.4,No,No,Bad,Yes,1955.52,992.82,71.93,No
+Male,28,1,<31,Low,High School,No,No,22.7,Yes,No,Bad,No,2123.81,716.16,86.82,No
+Female,77,6,>70,Middle High,High School,Yes,Yes,23.1,Yes,No,Bad,Yes,683.49,162.92,20.31,No
+Male,69,5,61-71,Middle Low,High School,No,Yes,20.1,No,Current,Bad,Yes,1849.57,420.38,55.91,No
+Male,74,6,>70,Middle High,Elementary School,Yes,Yes,24.6,No,No,Bad,Yes,851.6,757,27.05,No
+Female,74,6,>70,Middle High,Elementary School,Yes,Yes,22.3,Yes,No,Middle,Yes,984.81,436.8,32.27,No
+Male,37,2,31-41,Middle Low,High School,No,No,22.7,Yes,No,Bad,No,1540.68,862.56,91.6,No
+Female,62,5,61-71,Middle High,Middle School,Yes,Yes,20.1,Yes,No,Bad,No,1378.07,793.82,55.76,No
+Female,79,6,>70,Low,No School  ,Yes,Yes,24.5,Yes,No,Bad,Yes,1716.98,552.72,61.9,No
+Male,68,5,61-71,Middle Low,Middle School,Yes,Yes,28.3,No,Current,Bad,Yes,3718.51,1171.68,106.71,Yes
+Female,77,6,>70,Middle High,No School  ,Yes,Yes,24.6,Yes,No,Bad,Yes,964.57,411.96,35.52,No
+Male,36,2,31-41,Middle High,Two-Three Years College,No,Yes,26,Yes,No,Bad,No,1995.63,1689.59,111.51,Yes
+Female,31,1,<31,Middle High,Graduate School,No,Yes,21.8,Yes,No,Middle,No,1772.26,918.84,80.17,No
+Male,28,1,<31,High,College,No,No,23.2,No,No,Bad,No,2940.1,707.03,131.06,Yes
+Female,25,1,<31,Low,Two-Three Years College,Yes,No,21.7,No,Past,Bad,No,2589.57,3208.97,106.36,Yes
+Female,31,1,<31,Low,College,Yes,No,23.6,Yes,No,Bad,No,1696.73,552.48,44.02,Yes
+Female,48,3,41-51,Low,College,No,Yes,19.9,Yes,No,Middle,Yes,1999.82,1568.57,84.04,No
+Male,52,4,51-61,Low,Graduate School,Yes,Yes,26.4,No,Current,Bad,Yes,2671.72,846.19,103.94,No
+Male,34,2,31-41,Middle Low,Two-Three Years College,No,No,32.9,No,Current,Bad,No,2031.06,898.25,77.26,Yes
+Female,63,5,61-71,Middle High,High School,No,Yes,17.6,Yes,Past,Bad,No,1241.1,717.78,35.34,No
+Male,28,1,<31,High,College,No,No,24.1,Yes,Past,Middle,No,1350.24,1379.5,67.1,Yes
+Male,35,2,31-41,High,Two-Three Years College,No,No,33.6,No,No,Bad,Yes,1824.26,1022.98,70.95,Yes
+Female,25,1,<31,Low,Two-Three Years College,No,No,18.6,Yes,Current,Middle,No,1276.4,731.62,44.68,No
+Female,27,1,<31,Middle Low,College,No,No,20.4,No,No,Middle,No,1589.49,701,41.92,No
+Female,65,5,61-71,Middle High,Middle School,No,Yes,22.7,No,No,Bad,No,1766.45,1169.66,46.62,No
+Female,31,1,<31,Middle Low,High School,No,No,18.1,Yes,Current,Bad,No,1821.04,628.96,42.16,Yes
+Female,36,2,31-41,Low,Two-Three Years College,Yes,No,23,Yes,No,Bad,No,1906.06,680.69,137.39,No
+Female,63,5,61-71,Middle Low,Middle School,No,Yes,19.5,Yes,No,Bad,No,1721.51,1053.43,60.47,Yes
+Male,65,5,61-71,Middle High,Middle School,No,Yes,26.2,No,Current,Middle,Yes,2069.28,907.4,63.02,No
+Male,41,2,31-41,Middle High,Two-Three Years College,No,Yes,34.1,No,No,Bad,No,2209.77,788.28,75.25,No
+Female,46,3,41-51,Low,Two-Three Years College,Yes,No,19.9,Yes,Past,Bad,No,1779.3,497.97,67.21,No
+Male,62,5,61-71,Middle High,High School,No,Yes,24.1,Yes,Past,Middle,No,2042.84,788.16,83.99,No
+Female,60,4,51-61,Middle High,Middle School,No,Yes,25.3,No,No,Bad,Yes,1370.03,510.78,65.52,No
+Male,25,1,<31,Middle Low,Two-Three Years College,No,No,29.9,Yes,Past,Middle,No,2729.21,2133.33,68.29,Yes
+Male,39,2,31-41,Middle High,High School,No,Yes,22.7,Yes,No,Bad,No,1470.23,494.06,69.12,No
+Female,33,2,31-41,Middle High,High School,No,Yes,20.5,Yes,Current,Middle,No,1148.58,193.73,38.37,No
+Female,77,6,>70,Middle High,Elementary School,Yes,Yes,21.9,Yes,Past,Bad,Yes,1572.41,657.25,51.97,No
+Female,46,3,41-51,Low,Two-Three Years College,No,Yes,22.7,Yes,No,Bad,No,1081.15,167.1,28.65,No
+Female,63,5,61-71,Low,High School,No,Yes,27.5,No,Past,Bad,Yes,665.86,220.29,15.36,Yes
+Female,80,6,>70,Middle Low,Elementary School,Yes,Yes,23.1,No,No,Middle,No,1049.65,632.98,31.12,No
+Male,32,2,31-41,High,College,No,No,22.4,No,No,Bad,No,2596.34,1162.09,84.25,Yes
+Male,26,1,<31,High,College,No,No,23.8,No,Past,Bad,No,2876.47,1505.97,207.17,No
+Female,80,6,>70,Middle High,Elementary School,Yes,Yes,21.6,Yes,No,Bad,Yes,987.37,637.27,43.47,No
+Female,66,5,61-71,Low,Elementary School,No,Yes,20.6,No,No,Bad,Yes,801.84,271.12,20.65,No
+Male,29,1,<31,Middle Low,Graduate School,No,Yes,20.7,Yes,No,Middle,No,3056.09,2005.05,109.53,No
+Female,29,1,<31,Middle Low,Graduate School,Yes,Yes,23.8,Yes,No,Bad,No,2370.01,2294.29,98.27,No
+Male,61,4,51-61,High,Two-Three Years College,No,Yes,24.8,No,Past,Bad,Yes,2339.33,1560.61,76.27,No
+Female,59,4,51-61,High,High School,Yes,Yes,21.5,Yes,No,Bad,Yes,2311.01,1103.22,83.25,Yes
+Female,39,2,31-41,Middle Low,College,No,Yes,20.9,No,No,Middle,No,1863.12,1025.81,69.72,No
+Male,52,4,51-61,Low,High School,No,Yes,18.4,Yes,No,Bad,No,1019.77,633.26,21.5,No
+Female,49,3,41-51,Low,High School,Yes,Yes,23.3,Yes,No,Bad,No,1891.22,1201.44,75.18,No
+Male,68,5,61-71,Middle Low,High School,No,Yes,27,Yes,No,Bad,Yes,1091.75,792.03,36.99,No
+Female,62,5,61-71,Middle Low,Elementary School,Yes,Yes,27.2,No,No,Bad,Yes,2119.05,1366.06,64.1,No
+Female,78,6,>70,Middle Low,High School,No,Yes,25.3,Yes,No,Bad,Yes,882.26,462.15,14.88,No
+Male,36,2,31-41,Middle Low,College,No,Yes,31.8,Yes,Past,Middle,No,5450.85,2253.39,185.46,No
+Female,36,2,31-41,Middle Low,College,No,Yes,22.4,Yes,No,Bad,No,2524.79,876.07,116.08,No
+Female,41,2,31-41,High,College,Yes,Yes,21,No,No,Bad,No,1661.26,1285.3,74.47,No
+Male,48,3,41-51,High,High School,No,Yes,22.7,Yes,No,Bad,No,2104.05,1109.59,86.95,No
+Female,64,5,61-71,Middle High,Elementary School,Yes,Yes,18,Yes,No,Bad,Yes,1514.49,317.19,38.76,Yes
+Male,59,4,51-61,Middle High,High School,No,Yes,18.1,Yes,Current,Bad,No,3047.9,1051.37,154.83,No
+Female,56,4,51-61,Middle High,High School,No,Yes,25.7,No,No,Bad,Yes,2167.92,545.65,51.4,No
+Male,53,4,51-61,Middle Low,High School,No,Yes,23.9,Yes,Past,Bad,No,3365.77,914.61,128.43,No
+Female,53,4,51-61,Middle Low,High School,No,Yes,21.2,Yes,No,Bad,No,2402.85,1145.84,80.42,No
+Male,30,1,<31,Middle Low,High School,No,No,22.7,Yes,No,Bad,No,2860.25,764.36,136.35,No
+Female,28,1,<31,Middle Low,College,Yes,No,20.1,No,No,Bad,No,2215.24,747.13,99.19,No
+Male,44,3,41-51,Low,Graduate School,No,No,26.9,Yes,Current,Bad,No,1809.31,944.72,54.45,Yes
+Female,32,2,31-41,Low,Graduate School,No,No,17.5,Yes,No,Bad,No,1533.57,1155.88,58.76,No
+Male,29,1,<31,Middle High,College,Yes,No,25.4,Yes,No,Bad,No,2304.35,973.27,81.6,No
+Male,26,1,<31,Middle High,College,No,No,24.4,Yes,Current,Bad,No,1816.13,864.09,73.46,No
+Male,51,3,41-51,Middle Low,High School,No,Yes,27.9,Yes,Past,Bad,No,4490.14,2756.16,193.7,No
+Female,22,1,<31,Middle Low,College,Yes,Yes,27.6,No,Past,Middle,No,2056.07,1463.75,75.46,No
+Female,20,1,<31,Middle Low,Two-Three Years College,No,No,22.9,No,No,Middle,No,691.7,492.6,19.63,No
+Male,28,1,<31,Low,College,Yes,No,24.1,No,Current,Bad,No,5038.38,2835.81,134.26,No
+Female,22,1,<31,Low,College,No,No,22.1,Yes,No,Good,No,2371.04,574.23,65.82,No
+Male,79,6,>70,Middle Low,Elementary School,Yes,Yes,23.3,No,Past,Bad,Yes,1608.45,777.42,47.4,No
+Female,77,6,>70,Middle Low,Elementary School,Yes,Yes,27.1,No,No,Bad,Yes,897.05,625.14,27.83,No
+Female,21,1,<31,Low,College,No,No,26.6,No,No,Good,No,1735.58,425.37,63.72,No
+Male,61,4,51-61,Low,High School,No,Yes,20.8,No,Current,Bad,No,1508.02,279.08,37.85,No
+Male,40,2,31-41,Middle High,High School,No,Yes,20.6,No,Current,Middle,No,829.17,164.2,34.33,Yes
+Female,62,5,61-71,Low,Middle School,Yes,Yes,26.3,Yes,No,Bad,Yes,1422.21,1116.8,38.11,No
+Female,30,1,<31,Low,High School,Yes,No,19.1,Yes,Past,Bad,No,2080.45,934.73,51.88,Yes
+Male,50,3,41-51,Middle High,College,No,Yes,28.6,Yes,Past,Middle,No,2056.93,1907.38,68.1,No
+Female,48,3,41-51,High,College,Yes,Yes,23.9,Yes,No,Middle,No,1016.11,1793.26,33.2,No
+Male,20,1,<31,Middle High,College,Yes,No,29.1,No,Current,Bad,No,2810.61,1787.04,89.85,Yes
+Female,19,1,<31,High,College,No,No,23.4,No,No,Good,No,1238.91,892.64,39.85,No
+Male,73,6,>70,Middle Low,High School,Yes,Yes,18.9,No,Past,Bad,Yes,1624.62,673.4,46.97,No
+Female,65,5,61-71,Middle Low,Elementary School,Yes,Yes,25.5,Yes,No,Bad,Yes,1173.35,769.19,50.03,No
+Female,29,1,<31,Middle Low,College,Yes,No,33.3,Yes,No,Bad,No,2655.76,1011.94,156.25,No
+Female,80,6,>70,Low,Elementary School,No,Yes,26.3,Yes,No,Bad,Yes,1028.34,244.95,26.51,No
+Female,51,3,41-51,High,Graduate School,No,Yes,23.1,Yes,No,Bad,Yes,1802.57,1932.28,104.41,Yes
+Male,63,5,61-71,Low,High School,No,Yes,25.2,No,Past,Good,No,2403.44,1745.59,105,No
+Female,59,4,51-61,Low,High School,Yes,Yes,24,Yes,No,Bad,Yes,1407.21,1229.17,50.72,No
+Male,40,2,31-41,Middle Low,Graduate School,No,Yes,25.8,Yes,Past,Middle,No,2793.91,1768.09,89.02,No
+Female,36,2,31-41,Middle Low,Graduate School,No,Yes,22.7,No,No,Middle,No,2119.72,1060.93,80.66,Yes
+Male,29,1,<31,Low,College,Yes,No,22,No,Past,Bad,No,2768.54,2030.1,80.88,Yes
+Male,27,1,<31,Low,Graduate School,No,No,25.1,No,No,Middle,No,2535.74,399.17,78.97,No
+Male,66,5,61-71,Middle Low,High School,No,Yes,24.1,Yes,Current,Bad,Yes,1544.73,1136.6,49.13,No
+Female,63,5,61-71,Middle High,High School,No,Yes,22.7,No,No,Middle,Yes,2166.26,1549.99,71.46,No
+Male,55,4,51-61,Low,Elementary School,No,Yes,19.2,No,Current,Bad,No,1159.02,555.01,30.61,No
+Female,39,2,31-41,Middle Low,High School,No,No,20.3,Yes,Current,Bad,No,511.24,280.94,16.07,Yes
+Female,70,5,61-71,High,High School,No,Yes,23.9,No,No,Good,Yes,1504.29,542.61,78.88,No
+Female,49,3,41-51,Middle Low,Two-Three Years College,No,Yes,18,Yes,Past,Middle,No,1583.96,1292.44,37.59,No
+Female,66,5,61-71,High,Elementary School,No,Yes,19.6,No,No,Middle,Yes,1794.47,767.58,63.34,No
+Male,34,2,31-41,Middle Low,Two-Three Years College,Yes,No,29.7,Yes,No,Bad,No,1792.44,1585.17,68.83,Yes
+Male,72,6,>70,Middle High,High School,Yes,Yes,17.8,No,Current,Bad,Yes,1046.75,199.44,37.87,No
+Female,70,5,61-71,Middle High,Middle School,No,Yes,23.1,No,No,Bad,Yes,715.46,407.79,27.12,No
+Female,55,4,51-61,High,College,No,Yes,26.3,Yes,No,Bad,Yes,1723.36,678.77,113.02,Yes
+Female,29,1,<31,Middle High,Two-Three Years College,No,No,21,Yes,No,Middle,No,2481.42,1301.93,65.88,No
+Male,33,2,31-41,Middle High,College,No,No,27.1,Yes,Past,Bad,No,3129.57,1618.88,117.48,No
+Female,69,5,61-71,High,Middle School,Yes,Yes,22,No,No,Middle,Yes,1669.33,722.05,71.44,No
+Female,45,3,41-51,High,College,No,No,23.6,Yes,No,Middle,No,1905.63,890.7,47.79,No
+Female,80,6,>70,High,No School  ,Yes,Yes,25,No,No,Bad,No,548.1,301.7,18.21,No
+Female,30,1,<31,High,College,No,Yes,31.1,No,No,Bad,No,4576.15,1058.46,196.04,No
+Male,32,2,31-41,High,College,No,Yes,28.4,No,No,Middle,No,2766.12,1099.18,116.21,No
+Female,67,5,61-71,Middle Low,Middle School,No,Yes,20.5,No,Current,Bad,Yes,1402.41,279.62,50.32,Yes
+Female,38,2,31-41,Middle Low,Two-Three Years College,Yes,Yes,30.7,Yes,Past,Bad,No,1394.41,1250.27,36.29,No
+Male,35,2,31-41,Middle Low,College,No,Yes,29.1,No,Current,Bad,No,2629.92,1031.76,89.62,No
+Female,53,4,51-61,Low,High School,No,Yes,24.8,No,No,Bad,No,917.93,498.84,26.79,No
+Male,27,1,<31,Low,High School,No,No,28.2,No,No,Good,No,830.71,339.02,16.51,No
+Male,64,5,61-71,High,Middle School,No,Yes,27.3,No,Current,Bad,Yes,1062.18,315.51,42.82,No
+Female,61,4,51-61,High,Elementary School,Yes,Yes,25.1,No,No,Bad,Yes,762.24,371.78,53.82,No
+Male,37,2,31-41,High,High School,No,No,25.2,Yes,Current,Bad,Yes,1082.39,610.36,40.57,No
+Male,39,2,31-41,Low,High School,No,No,23.1,No,Current,Middle,No,1589.34,861.59,57.33,No
+Male,70,5,61-71,Middle Low,Middle School,Yes,Yes,15.3,No,Current,Bad,No,2438.69,521.98,77.48,No
+Male,57,4,51-61,High,Two-Three Years College,No,Yes,30.6,No,Current,Bad,Yes,1895.6,864.84,94.37,No
+Female,26,1,<31,Low,College,Yes,No,20.8,No,No,Good,No,1912.38,1565.65,64.59,No
+Female,72,6,>70,Middle Low,Elementary School,Yes,Yes,24.5,Yes,Current,Bad,Yes,1987.49,941.43,79.42,Yes
+Female,66,5,61-71,Middle Low,Middle School,No,Yes,27.8,Yes,No,Good,Yes,1819.6,373.92,60.93,No
+Male,39,2,31-41,Middle Low,Graduate School,No,Yes,27.8,Yes,No,Middle,No,2200.24,1563.4,98.45,No
+Female,45,3,41-51,Middle Low,College,Yes,Yes,20.8,Yes,No,Middle,No,2669.98,1572.28,79.2,No
+Female,74,6,>70,Middle Low,Elementary School,No,Yes,28.1,Yes,No,Bad,Yes,1115.48,369.88,45.68,No
+Male,78,6,>70,Middle Low,College,Yes,Yes,24.1,Yes,Past,Middle,Yes,1354.55,1014.33,52.13,No
+Female,72,6,>70,Middle Low,Two-Three Years College,Yes,Yes,21.1,Yes,No,Bad,Yes,78.58,59.33,2.24,Yes
+Female,48,3,41-51,Middle Low,High School,No,No,22.7,Yes,No,Bad,No,2018.9,1018.46,63.05,No
+Female,76,6,>70,High,Elementary School,Yes,Yes,26.5,No,No,Middle,No,1243.67,471.88,45.74,No
+Male,78,6,>70,Middle Low,College,Yes,Yes,23.3,No,Past,Bad,Yes,1955.66,517.68,98.14,No
+Female,74,6,>70,Middle Low,Two-Three Years College,No,Yes,24,Yes,No,Middle,Yes,1539.35,1003.14,65,No
+Female,28,1,<31,High,Two-Three Years College,No,Yes,23.6,Yes,Current,Middle,No,2484.03,2930.65,46.67,No
+Male,41,2,31-41,High,Two-Three Years College,No,No,24.5,Yes,Current,Bad,No,1925.64,843.14,50.75,No
+Female,68,5,61-71,High,College,No,Yes,20.8,No,No,Good,No,1747.87,1127.88,47.16,No
+Male,46,3,41-51,Middle Low,High School,No,Yes,22.7,Yes,No,Bad,No,3714.68,520.86,81.75,No
+Female,48,3,41-51,Middle High,Middle School,No,Yes,23.3,Yes,No,Bad,Yes,3038.2,544.62,67.02,No
+Female,42,3,41-51,High,Graduate School,No,Yes,25.9,Yes,No,Bad,No,1808.14,832.77,60.67,Yes
+Male,37,2,31-41,High,Two-Three Years College,No,Yes,24.2,No,Past,Bad,No,2482.31,457.97,74.37,Yes
+Male,55,4,51-61,Middle High,Middle School,No,Yes,24.3,No,Current,Bad,No,2629.92,536.83,59.37,No
+Female,47,3,41-51,High,High School,No,Yes,20.5,Yes,No,Bad,No,1914.17,751.94,72.9,No
+Female,20,1,<31,High,Two-Three Years College,No,No,18.7,No,No,Bad,No,2606.22,699.59,57.17,Yes
+Male,62,5,61-71,Middle High,Elementary School,Yes,Yes,25.2,No,Current,Bad,No,2827.38,1910.47,117.78,No
+Female,59,4,51-61,Middle High,Middle School,No,Yes,20.6,No,No,Bad,Yes,1347.72,863.85,56.44,No
+Male,66,5,61-71,Middle Low,Elementary School,Yes,Yes,23.9,Yes,Past,Bad,Yes,991.83,803.55,29.88,No
+Female,56,4,51-61,Low,Two-Three Years College,No,Yes,23.5,No,No,Middle,No,1164.95,1043.35,29.46,Yes
+Female,37,2,31-41,High,Graduate School,No,Yes,27,Yes,No,Middle,No,1781.07,1186.26,57.56,No
+Male,42,3,41-51,High,Graduate School,No,Yes,28.2,Yes,Past,Middle,No,2211.31,1042.07,75.85,No
+Male,47,3,41-51,Middle High,College,No,Yes,26.6,Yes,Current,Bad,Yes,1943.25,1149.79,88.48,No
+Female,46,3,41-51,Middle High,Graduate School,No,Yes,22.6,Yes,No,Bad,No,1068.69,332.52,48.23,No
+Male,80,6,>70,High,College,Yes,Yes,23.8,Yes,No,Middle,No,2245.47,937.96,136.51,No
+Female,75,6,>70,High,High School,Yes,Yes,25.6,No,No,Middle,Yes,2159.62,1157.64,127.13,No
+Male,44,3,41-51,Middle High,High School,No,Yes,22.7,Yes,No,Bad,No,1919.17,1143.3,91.78,No
+Female,42,3,41-51,Middle High,College,Yes,Yes,20.2,Yes,No,Bad,No,1919.45,1065.81,91.44,No
+Female,67,5,61-71,High,Middle School,Yes,Yes,24.5,Yes,No,Middle,No,1495.24,595.55,46.83,No
+Male,70,5,61-71,High,High School,No,Yes,27.7,No,Past,Middle,Yes,1474.79,418.04,49.23,No
+Female,45,3,41-51,High,Two-Three Years College,Yes,Yes,18.7,Yes,Past,Bad,No,1086.43,721.86,35.96,No
+Female,51,3,41-51,Middle High,Two-Three Years College,No,Yes,19.7,Yes,No,Middle,Yes,1328.86,1103.78,53.27,Yes
+Male,22,1,<31,Middle High,Two-Three Years College,No,No,36.2,No,Current,Bad,No,1997.04,1040.3,71.75,No
+Female,20,1,<31,Middle High,College,Yes,No,19.2,No,Past,Bad,Yes,1855.06,860.82,67,No
+Female,59,4,51-61,High,High School,Yes,Yes,22.8,Yes,No,Middle,No,1319.99,550.51,40.93,No
+Female,27,1,<31,High,High School,No,No,22.7,Yes,No,Bad,No,1148.5,652.33,63.49,No
+Female,57,4,51-61,Middle High,High School,No,Yes,22.1,Yes,No,Middle,Yes,1471.5,816.72,72.3,No
+Female,70,5,61-71,Middle Low,Elementary School,Yes,Yes,21.4,No,No,Middle,Yes,1699.54,884.37,61.96,No
+Male,50,3,41-51,Middle High,Two-Three Years College,No,Yes,25.4,Yes,Past,Bad,No,1862.81,967.97,84.14,No
+Female,45,3,41-51,Middle High,High School,Yes,Yes,21.2,Yes,No,Bad,No,1056,512.35,39.22,No
+Male,48,3,41-51,High,Graduate School,No,Yes,25.1,Yes,Past,Good,No,1647.96,970.85,69.83,No
+Female,48,3,41-51,High,College,No,Yes,26.5,Yes,No,Middle,Yes,2000.91,656.61,63.4,No
+Male,21,1,<31,High,College,No,No,24.2,Yes,Past,Good,No,1136.87,521.22,25.48,No
+Male,19,1,<31,High,College,No,No,23,Yes,No,Good,No,2941.66,846.49,107.3,No
+Female,42,3,41-51,Middle Low,College,No,Yes,20.5,Yes,No,Middle,No,2438.49,1538.78,79.13,No
+Male,43,3,41-51,Middle Low,Graduate School,No,Yes,31.1,Yes,Past,Middle,No,3383.54,1677.64,99.54,No
+Male,33,2,31-41,High,College,No,No,26.4,Yes,No,Bad,No,1237,973.67,46.36,No
+Female,58,4,51-61,High,High School,Yes,Yes,22.2,Yes,No,Middle,No,873.96,708.6,29.3,No
+Male,60,4,51-61,High,College,No,Yes,24.6,Yes,Past,Middle,Yes,1393.16,914.21,85.51,No
+Male,66,5,61-71,Middle Low,High School,Yes,Yes,24.2,Yes,No,Middle,Yes,1074.3,393.06,41.07,No
+Female,62,5,61-71,Middle Low,Two-Three Years College,Yes,Yes,24.2,Yes,No,Good,No,1612.54,1331.28,80.62,No
+Female,52,4,51-61,High,College,Yes,Yes,20.5,Yes,No,Bad,Yes,1970.46,1291.1,72.71,Yes
+Female,58,4,51-61,High,Graduate School,No,Yes,19.1,Yes,No,Bad,Yes,1606.63,2233.08,64.24,Yes
+Female,36,2,31-41,High,College,No,Yes,22.5,Yes,No,Bad,No,1724.16,765.24,76.2,No
+Male,38,2,31-41,High,College,No,Yes,30.7,Yes,Past,Bad,No,2193.81,1290.75,83.11,No
+Male,80,6,>70,Low,High School,Yes,Yes,21.8,Yes,No,Bad,Yes,1531.14,699.81,69.96,No
+Female,80,6,>70,Low,Elementary School,Yes,Yes,24.8,Yes,No,Bad,Yes,1494.55,1176.95,81.96,No
+Male,75,6,>70,High,High School,No,Yes,22.7,Yes,No,Bad,No,2092.82,389.75,78.17,No
+Female,73,6,>70,High,Middle School,No,Yes,23.4,No,No,Bad,Yes,2180.36,583.9,63.73,No
+Female,65,5,61-71,Middle High,Graduate School,No,Yes,22.2,No,No,Bad,Yes,1456.1,772.37,54.51,No
+Female,39,2,31-41,Middle Low,College,No,Yes,23.7,Yes,Past,Bad,No,1606.27,1280.25,57.37,No
+Male,65,5,61-71,Middle High,Middle School,No,Yes,24.7,No,Past,Bad,Yes,1606.75,272.33,41.49,No
+Female,61,4,51-61,Middle High,Elementary School,No,Yes,26.1,No,No,Bad,Yes,1313.07,527.62,26.26,No
+Female,25,1,<31,Middle Low,Two-Three Years College,No,No,21.7,Yes,No,Bad,No,3223.68,897.09,105.13,No
+Female,43,3,41-51,Middle High,Two-Three Years College,No,Yes,19.7,Yes,No,Good,No,869.27,160.99,18.79,No
+Male,46,3,41-51,Middle High,High School,No,Yes,22,Yes,Current,Middle,No,1809.85,1673.75,106.21,No
+Female,71,5,61-71,Middle High,Elementary School,Yes,Yes,25.6,No,No,Middle,Yes,1306.94,722.03,36.92,No
+Male,75,6,>70,Middle High,Middle School,Yes,Yes,20.4,No,Past,Bad,Yes,1462.38,854.11,49.49,No
+Male,38,2,31-41,Low,College,No,Yes,28.8,Yes,No,Middle,No,2904.12,800.47,81.76,No
+Female,39,2,31-41,Low,Two-Three Years College,Yes,Yes,20.5,Yes,No,Bad,No,1733.51,719.64,67.25,No
+Male,51,3,41-51,High,High School,No,Yes,24.1,Yes,Current,Middle,Yes,1672.36,785.11,41,No
+Female,43,3,41-51,High,High School,No,Yes,17.1,Yes,No,Bad,No,1452.57,940.6,36.45,No
+Female,22,1,<31,High,Two-Three Years College,No,No,19.1,No,Current,Bad,No,1107.77,450.59,25.81,No
+Male,46,3,41-51,High,High School,No,Yes,29.4,No,Current,Middle,No,3293.24,1271.43,143.62,No
+Female,47,3,41-51,High,High School,No,Yes,16.7,Yes,Current,Middle,No,4354.3,1220.13,171.28,No
+Male,49,3,41-51,Low,College,No,Yes,28.5,Yes,No,Bad,No,1492.3,1572.2,54.47,No
+Female,45,3,41-51,Low,High School,No,Yes,20.5,Yes,No,Bad,No,1625.75,642.91,80.06,No
+Male,70,5,61-71,Middle Low,High School,No,Yes,25.4,Yes,Past,Bad,Yes,1255.83,484.54,51.64,No
+Female,66,5,61-71,Middle High,High School,Yes,Yes,20.8,Yes,No,Bad,Yes,1827.04,1597.85,85.1,No
+Female,50,3,41-51,Middle High,High School,Yes,Yes,24.5,No,No,Middle,No,1203.82,874.73,20.46,Yes
+Female,80,6,>70,Middle High,Elementary School,Yes,Yes,33,Yes,No,Middle,No,799.95,506.72,21.88,No
+Male,52,4,51-61,Low,Two-Three Years College,Yes,Yes,31.3,Yes,Past,Bad,Yes,2836.55,597.67,58.37,Yes
+Male,28,1,<31,Low,College,No,No,25.5,Yes,Current,Bad,No,1374.83,230.39,41.92,No
+Female,80,6,>70,Low,High School,No,Yes,26.6,Yes,No,Bad,Yes,1661.39,322.92,33.44,No
+Male,55,4,51-61,Low,Middle School,Yes,Yes,20.6,Yes,Current,Bad,No,1164.62,483.45,32.85,No
+Female,78,6,>70,Low,No School  ,Yes,Yes,26.4,No,No,Bad,Yes,1384.39,463.45,23.5,Yes
+Male,74,6,>70,Middle High,Middle School,No,Yes,25.4,Yes,Past,Bad,Yes,1293.6,656.35,44.31,No
+Female,71,5,61-71,High,Middle School,Yes,Yes,23.4,Yes,No,Bad,Yes,1354.5,500.84,35.94,No
+Male,59,4,51-61,High,College,No,Yes,28.1,Yes,No,Bad,Yes,3021.51,1094.48,109.82,No
+Female,35,2,31-41,Middle Low,Two-Three Years College,No,Yes,21.8,Yes,No,Bad,No,906.18,812.19,42.45,Yes
+Female,53,4,51-61,Middle High,College,No,Yes,20.2,Yes,No,Bad,No,2338.08,1670.23,80.17,Yes
+Female,67,5,61-71,High,High School,Yes,Yes,24.2,Yes,No,Bad,Yes,1858.39,1595.58,74.18,No
+Female,61,4,51-61,Middle High,Two-Three Years College,No,Yes,19.2,Yes,No,Bad,Yes,3001.21,3061.5,109.82,No
+Male,46,3,41-51,Middle Low,College,No,Yes,24,Yes,Past,Bad,Yes,2293.25,2173.79,66.21,No
+Female,46,3,41-51,Middle High,College,Yes,Yes,19.8,Yes,No,Middle,No,2081.58,1222.76,61.29,No
+Female,48,3,41-51,Low,Middle School,No,Yes,24.3,Yes,No,Bad,Yes,1867.81,756.93,67.03,Yes
+Male,53,4,51-61,High,College,No,Yes,23.1,Yes,No,Middle,No,2360.94,1048.02,101.84,No
+Female,25,1,<31,High,Two-Three Years College,No,No,18.2,No,No,Middle,No,2093.6,946.57,70.9,No
+Male,20,1,<31,High,Two-Three Years College,No,No,18,No,Current,Bad,No,2081.75,1097.73,120.64,No
+Male,27,1,<31,Middle High,College,Yes,No,23.6,No,No,Middle,No,1379.38,62.09,21.96,No
+Female,52,4,51-61,Middle High,College,No,Yes,17.2,Yes,No,Bad,No,2049.52,2182.34,78.58,No
+Male,62,5,61-71,Low,High School,No,Yes,22.7,Yes,No,Bad,No,2165.69,1116.08,98.09,No
+Female,59,4,51-61,Low,Middle School,Yes,Yes,22.5,Yes,No,Good,Yes,2185.63,936.29,100.73,No
+Female,80,6,>70,Low,High School,No,Yes,22.7,No,No,Bad,No,1318.21,336.38,46.79,No
+Female,72,6,>70,Middle High,Middle School,No,Yes,27,No,No,Middle,No,1530.35,1170.38,52.14,No
+Female,74,6,>70,Low,Elementary School,Yes,Yes,19,Yes,No,Good,No,1293.74,742.52,38.63,No
+Female,34,2,31-41,High,College,No,No,18.4,Yes,No,Bad,No,2249.91,1031.17,89.23,Yes
+Female,64,5,61-71,High,High School,Yes,Yes,22.1,Yes,No,Middle,Yes,1468.2,656.56,50.93,No
+Male,27,1,<31,High,High School,No,No,22.2,Yes,No,Middle,No,2945.38,1099.43,117.47,No
+Female,64,5,61-71,High,High School,Yes,Yes,21.6,No,No,Bad,No,1641.16,1211.61,56.93,No
+Female,60,4,51-61,Low,Middle School,Yes,Yes,25.1,Yes,No,Bad,Yes,1483.8,1145.53,53.03,No
+Male,34,2,31-41,Low,Graduate School,No,No,27.5,Yes,No,Bad,No,1597.01,1337.99,80.42,No
+Female,65,5,61-71,Low,High School,Yes,No,21.6,Yes,No,Bad,Yes,2064.08,1277.16,63.76,No
+Female,62,5,61-71,Low,High School,No,Yes,22.8,No,Past,Bad,Yes,3069.64,1329.14,158.48,No
+Male,47,3,41-51,Low,High School,No,No,29.2,Yes,Current,Bad,No,1711.54,1143.33,56.28,Yes
+Female,42,3,41-51,Middle Low,High School,Yes,Yes,21.9,Yes,Past,Bad,No,850.5,440.91,52.09,Yes
+Female,75,6,>70,High,High School,No,Yes,25.8,No,No,Bad,Yes,2620.63,1431.78,74.46,No
+Male,45,3,41-51,Middle Low,College,No,No,22.1,Yes,Current,Middle,No,1844.69,786.93,82,Yes
+Male,73,6,>70,Middle High,Elementary School,No,Yes,23,No,Past,Middle,Yes,1911.81,1190.39,71.45,No
+Female,71,5,61-71,High,Middle School,Yes,Yes,23.7,Yes,No,Bad,No,3640.56,1382.33,82.88,No
+Male,80,6,>70,High,College,Yes,Yes,25.3,No,No,Good,No,1737.48,1682.36,100.45,No
+Female,79,6,>70,High,Elementary School,Yes,Yes,22.7,No,No,Bad,Yes,1721.09,2480.59,122.23,No
+Male,76,6,>70,High,High School,No,Yes,20.3,No,Current,Bad,Yes,946.36,553.64,28.88,No
+Male,29,1,<31,Middle Low,High School,No,No,23.7,No,No,Bad,No,2637.66,737.52,199.63,No
+Male,65,5,61-71,Middle High,Middle School,No,Yes,21,Yes,No,Bad,Yes,1552.44,395.13,63.65,No
+Female,63,5,61-71,Middle Low,Elementary School,Yes,Yes,26,Yes,No,Bad,Yes,2079.31,1936.39,70.84,No
+Female,39,2,31-41,Middle Low,High School,Yes,Yes,29.1,No,No,Bad,No,1935.99,1244.85,68.65,No
+Male,44,3,41-51,Middle Low,High School,No,Yes,24.9,No,Current,Bad,No,2541.95,962.67,55.71,No
+Female,79,6,>70,Middle High,No School  ,Yes,Yes,23,Yes,No,Bad,Yes,1353.26,671.53,49.07,No
+Female,70,5,61-71,Low,Elementary School,Yes,Yes,24.6,Yes,Current,Bad,Yes,756.69,168.61,14.68,No
+Female,67,5,61-71,Middle Low,Elementary School,Yes,Yes,26.6,Yes,No,Bad,Yes,1259.22,387.31,38.2,No
+Male,65,5,61-71,Low,High School,Yes,Yes,27.1,No,Current,Bad,No,1191.83,422.51,31.21,No
+Female,61,4,51-61,Low,Elementary School,Yes,Yes,21.8,Yes,No,Bad,Yes,1034.44,138.8,29.98,No
+Female,76,6,>70,Middle High,Elementary School,Yes,Yes,22.2,No,No,Bad,Yes,866.76,164.3,26.68,No
+Male,67,5,61-71,Middle Low,Middle School,No,Yes,22,No,No,Middle,No,1948.25,864.79,55.53,No
+Male,59,4,51-61,Low,High School,No,Yes,21.4,Yes,Current,Bad,Yes,1023.39,344.05,46.11,No
+Male,70,5,61-71,Middle High,Elementary School,No,Yes,24,No,Past,Bad,No,2704.49,1996.7,77.2,Yes
+Female,69,5,61-71,Middle High,Elementary School,Yes,Yes,23.4,No,No,Bad,Yes,1098.93,1116.87,39.71,No
+Female,41,2,31-41,Middle Low,Two-Three Years College,No,Yes,24.4,Yes,Past,Bad,No,1484.75,559.43,31.15,Yes
+Male,70,5,61-71,High,High School,No,Yes,36.5,Yes,Past,Bad,Yes,2309.09,1097.14,38.26,No
+Female,66,5,61-71,Middle High,High School,Yes,Yes,22.9,Yes,No,Bad,Yes,2342.44,2399.07,82.1,No
+Female,57,4,51-61,High,High School,Yes,Yes,24.3,Yes,No,Bad,Yes,1967.7,2259.46,131.63,No
+Female,33,2,31-41,High,High School,No,No,22.7,Yes,No,Bad,No,1292.57,800.27,32.26,No
+Female,56,4,51-61,Low,College,No,Yes,20.2,Yes,No,Bad,No,2564.66,2268.29,121.84,Yes
+Male,76,6,>70,Middle Low,High School,No,Yes,22.7,Yes,Past,Bad,Yes,1477.54,733.24,52.93,No
+Female,72,6,>70,Middle Low,Elementary School,Yes,Yes,30.2,No,No,Bad,Yes,1025.27,696.75,53.57,Yes
+Male,69,5,61-71,Low,Middle School,Yes,Yes,21.3,Yes,Past,Middle,No,2582.14,2064.82,89.42,No
+Male,55,4,51-61,Middle Low,College,No,Yes,23.9,Yes,Past,Bad,Yes,1313.61,1026.73,50.28,No
+Female,52,4,51-61,Middle Low,Two-Three Years College,Yes,Yes,28.3,No,No,Bad,No,2388.65,2200.11,76.67,No
+Female,26,1,<31,Middle High,Graduate School,No,No,19.6,No,No,Bad,No,1773.71,1306.73,59.43,Yes
+Male,61,4,51-61,High,College,No,Yes,25.2,Yes,Past,Middle,No,3431.49,2428.74,109.44,No
+Female,55,4,51-61,High,High School,Yes,Yes,21,Yes,No,Middle,No,1205.09,1103.84,51.08,Yes
+Female,80,6,>70,High,Elementary School,Yes,Yes,26.5,Yes,No,Bad,Yes,1554.29,674.79,56.09,No
+Male,53,4,51-61,Middle High,College,No,Yes,24.6,Yes,No,Middle,No,1376.36,747.55,62.81,No
+Female,52,4,51-61,Middle High,College,Yes,Yes,26.3,No,No,Bad,No,865.2,1027.09,21.51,No
+Female,45,3,41-51,Middle High,Two-Three Years College,Yes,Yes,24.1,Yes,No,Bad,No,2011.31,2295.58,101.2,No
+Female,69,5,61-71,Middle High,Elementary School,Yes,Yes,22.1,Yes,No,Bad,Yes,1273.11,775.86,41.46,No
+Female,40,2,31-41,Middle Low,College,No,No,20.8,Yes,No,Bad,No,1903.66,1179.5,61.66,No
+Male,41,2,31-41,Middle High,High School,No,Yes,28.7,Yes,Current,Bad,No,3487.01,1610.79,126.94,Yes
+Female,38,2,31-41,Middle High,High School,No,Yes,24.5,No,No,Bad,No,1214.24,961.61,44.96,No
+Male,47,3,41-51,Low,High School,No,Yes,24.4,No,Past,Bad,No,2197.47,1275.2,87.35,No
+Female,47,3,41-51,Low,College,Yes,Yes,23.7,Yes,No,Bad,No,1838.21,1438.11,62.62,No
+Male,54,4,51-61,Low,High School,No,Yes,27.4,Yes,No,Bad,Yes,753.96,450.52,28.07,Yes
+Male,70,5,61-71,Middle High,High School,No,Yes,24.2,Yes,No,Bad,Yes,2231,901.02,111.23,No
+Female,64,5,61-71,Middle High,High School,Yes,Yes,20,Yes,No,Bad,No,1034,633.35,48.74,No
+Female,56,4,51-61,Low,High School,No,Yes,18.2,No,No,Bad,No,971.58,1141.23,36.23,No
+Female,57,4,51-61,Middle High,High School,No,Yes,22.5,Yes,No,Bad,Yes,1540.37,1571.12,49.96,No
+Male,27,1,<31,Middle High,High School,No,No,21.4,No,Past,Bad,Yes,2548.45,521.42,71.91,No
+Female,24,1,<31,Middle High,High School,No,No,22.7,Yes,No,Bad,No,999.25,811.49,23.65,No
+Female,65,5,61-71,Low,High School,No,Yes,23.9,Yes,No,Bad,Yes,1973.75,794.63,40.63,No
+Male,44,3,41-51,Low,High School,No,Yes,22.7,Yes,No,Bad,No,1245.84,922.4,66.61,No
+Female,41,2,31-41,Low,Two-Three Years College,Yes,Yes,19.4,No,No,Middle,No,1202.16,1587.45,46.62,No
+Male,65,5,61-71,High,Elementary School,No,Yes,24.8,Yes,No,Bad,Yes,1452.52,385.49,39.11,No
+Female,62,5,61-71,High,High School,No,Yes,19.3,No,No,Bad,No,1001.68,335.51,38.03,No
+Male,51,3,41-51,Middle High,High School,No,Yes,23.1,No,Current,Middle,No,2397.53,976.61,81.77,No
+Female,48,3,41-51,Middle High,High School,No,Yes,24,Yes,No,Bad,No,1405.71,537.34,59.03,No
+Male,23,1,<31,Middle High,College,No,No,20.9,No,No,Bad,No,1744.2,728.43,89.68,No
+Female,43,3,41-51,Low,High School,Yes,Yes,38.8,Yes,No,Bad,Yes,716.66,287.84,37.66,Yes
+Male,73,6,>70,Middle Low,High School,No,Yes,24.7,Yes,Past,Bad,Yes,1931.59,818.31,75.72,No
+Female,67,5,61-71,Middle Low,High School,No,Yes,20,No,No,Bad,No,1751.52,968.41,64.68,No
+Male,62,5,61-71,High,High School,No,Yes,22.7,Yes,Current,Bad,No,3585.25,1704.43,87.15,No
+Female,59,4,51-61,Middle High,High School,No,Yes,22.8,Yes,No,Bad,Yes,1790.69,635.84,69.86,No
+Male,31,1,<31,Middle High,College,No,No,26.6,Yes,Current,Good,No,1313.08,1324.26,40.33,Yes
+Male,60,4,51-61,Middle High,Middle School,No,Yes,23.4,Yes,Past,Bad,Yes,1775.29,1586.1,57,No
+Female,63,5,61-71,Middle High,Elementary School,Yes,Yes,27,Yes,No,Bad,Yes,1602.84,1071.19,33.03,No
+Female,80,6,>70,High,High School,No,Yes,20,Yes,No,Bad,Yes,1115.19,640.83,22.92,No
+Female,62,5,61-71,Middle Low,Elementary School,Yes,Yes,21.7,Yes,No,Bad,Yes,2121.18,1346.37,68.88,No
+Male,78,6,>70,High,High School,No,Yes,27.4,Yes,Past,Bad,Yes,2608.85,1287.95,94.81,No
+Female,70,5,61-71,High,High School,No,Yes,22.7,Yes,No,Bad,No,1500.7,992.71,58.96,No
+Female,41,2,31-41,High,College,Yes,Yes,26.7,Yes,No,Bad,No,1835.33,1355.08,68.98,Yes
+Male,76,6,>70,Middle High,High School,No,Yes,24.5,No,No,Bad,No,1797.31,1119.68,58.58,No
+Female,73,6,>70,Middle Low,High School,No,Yes,25.6,Yes,No,Bad,Yes,1974.65,1832.7,58.49,No
+Male,56,4,51-61,Low,College,Yes,Yes,27.9,Yes,Past,Bad,Yes,1863.92,245.66,45.75,No
+Female,52,4,51-61,Low,College,No,Yes,26.5,Yes,No,Bad,No,1972.82,547.97,62.04,No
+Female,25,1,<31,Low,College,Yes,No,23,Yes,Current,Bad,No,1940.77,514.04,60.03,Yes
+Male,67,5,61-71,Middle Low,High School,No,Yes,25.4,No,Past,Bad,No,1921.14,1240.57,72.21,No
+Female,62,5,61-71,Middle Low,High School,Yes,Yes,20.4,No,No,Middle,No,1548.35,889.31,44.7,No
+Female,33,2,31-41,Low,College,No,Yes,22,Yes,No,Bad,No,1960.62,1018.99,53.07,No
+Male,65,5,61-71,Middle Low,High School,No,Yes,22.7,Yes,No,Bad,No,2671.66,1083.95,69.12,No
+Female,64,5,61-71,Low,Elementary School,No,Yes,24.7,No,No,Bad,Yes,1836.42,792.59,59.77,No
+Male,42,3,41-51,Low,High School,No,Yes,22.7,Yes,No,Bad,No,1159.34,855.84,40.95,No
+Male,69,5,61-71,Low,High School,Yes,Yes,23.4,Yes,Past,Bad,No,2084.35,450.9,52.03,No
+Female,63,5,61-71,Low,High School,No,Yes,23,Yes,No,Bad,No,1659.38,591.71,42.93,No
+Male,26,1,<31,Low,College,No,No,20.8,No,No,Bad,No,1730.35,263.97,39.27,No
+Male,72,6,>70,Low,Middle School,Yes,Yes,20.5,No,Current,Bad,Yes,1635.61,1145.23,74.96,No
+Female,64,5,61-71,Low,Elementary School,Yes,Yes,24.8,No,No,Middle,Yes,1647.1,877.25,68.42,No
+Male,64,5,61-71,Middle High,Two-Three Years College,Yes,Yes,24.5,No,Past,Bad,Yes,2081.35,1667.68,78.17,No
+Female,62,5,61-71,High,High School,No,Yes,26.4,Yes,No,Bad,Yes,832.03,440.21,29.16,No
+Male,71,5,61-71,High,High School,No,Yes,25.7,Yes,Past,Middle,Yes,1623.6,988.37,47.36,No
+Female,64,5,61-71,Middle High,High School,Yes,Yes,25.6,Yes,No,Bad,Yes,971.97,648.88,21.93,No
+Female,71,5,61-71,Middle High,High School,Yes,Yes,22.3,Yes,No,Bad,Yes,873.06,256.96,28.19,No
+Male,54,4,51-61,High,Two-Three Years College,No,Yes,23.6,Yes,Past,Middle,No,2404.06,1492.37,89.81,No
+Male,58,4,51-61,Low,College,No,Yes,26.4,Yes,No,Bad,Yes,1555.49,890.11,102.45,No
+Male,48,3,41-51,Middle High,High School,No,Yes,20.3,No,Current,Bad,No,2146.74,537.93,74.28,No
+Male,25,1,<31,Low,Two-Three Years College,Yes,No,22.6,No,Current,Bad,No,1220.1,1090.58,32.15,No
+Male,55,4,51-61,Middle High,Middle School,No,Yes,24.1,Yes,No,Bad,No,1695.01,710.52,54.97,No
+Female,56,4,51-61,Middle High,Elementary School,Yes,Yes,20.5,No,No,Middle,No,1436.46,1260.05,56.17,No
+Male,53,4,51-61,Middle Low,Two-Three Years College,No,Yes,21.8,No,Past,Middle,No,2977.64,1489.48,129.16,No
+Female,32,2,31-41,Middle Low,High School,No,Yes,19.6,Yes,No,Bad,No,1151.81,395.64,37.74,No
+Male,54,4,51-61,High,Middle School,Yes,Yes,24.7,Yes,Past,Bad,Yes,1327.18,977.89,48.51,No
+Female,74,6,>70,High,High School,No,Yes,26.5,Yes,No,Bad,Yes,372.88,63.72,7.68,No
+Female,49,3,41-51,High,High School,No,Yes,24.9,Yes,No,Bad,No,1017.83,829.14,54.36,No
+Male,22,1,<31,High,College,Yes,No,20,No,Current,Bad,No,2436.59,214.61,83.95,Yes
+Male,24,1,<31,High,College,No,No,24.3,No,Past,Bad,No,2077.68,691.33,71.82,No
+Male,61,4,51-61,High,High School,No,Yes,24.4,No,Past,Bad,Yes,2212.37,1025.91,86.22,No
+Female,59,4,51-61,High,High School,No,Yes,23.7,Yes,No,Bad,Yes,212.08,137.41,6.07,No
+Male,38,2,31-41,High,High School,No,Yes,18.6,Yes,Current,Bad,No,1482.96,634.8,70.18,Yes
+Male,44,3,41-51,Middle Low,High School,No,Yes,23.4,No,No,Middle,No,2087.03,1133.83,112.59,Yes
+Female,35,2,31-41,Middle Low,High School,Yes,Yes,25.3,No,No,Middle,No,1204.79,566.51,75.77,No
+Female,63,5,61-71,Low,Middle School,Yes,Yes,27.8,Yes,No,Bad,Yes,1246.91,390.36,50.41,Yes
+Male,61,4,51-61,High,Middle School,No,Yes,25.7,No,Past,Bad,No,2661.21,1357.94,86.92,No
+Female,57,4,51-61,Middle High,Middle School,No,Yes,23.4,Yes,No,Bad,No,867.82,789.67,34.49,No
+Male,52,4,51-61,High,High School,No,Yes,22.7,Yes,No,Bad,No,1998.15,682.27,78.7,No
+Female,51,3,41-51,High,Two-Three Years College,Yes,Yes,18.6,Yes,No,Middle,No,2358.69,1335.95,163.95,No
+Male,19,1,<31,High,High School,No,No,22.7,Yes,No,Bad,No,2021.09,868.13,86.72,No
+Male,63,5,61-71,High,Middle School,No,Yes,27.3,No,Current,Bad,Yes,3730.58,1120.26,161.69,Yes
+Female,55,4,51-61,High,High School,No,Yes,24.7,Yes,No,Bad,No,1180.09,622.61,45.81,No
+Male,47,3,41-51,Middle Low,High School,No,Yes,19.8,Yes,Past,Bad,No,1730.35,734.98,51.18,No
+Female,44,3,41-51,Middle High,High School,No,Yes,23.4,No,No,Bad,No,994.68,1081.76,38.95,No
+Male,22,1,<31,Middle Low,College,Yes,No,21.9,No,No,Bad,No,3857.08,642.74,152.91,Yes
+Male,80,6,>70,Middle High,High School,No,Yes,19.7,Yes,No,Bad,Yes,1716.86,947.48,85.57,No
+Female,75,6,>70,High,Elementary School,Yes,Yes,29.4,Yes,No,Middle,Yes,1528.13,780.75,62.26,No
+Male,53,4,51-61,Middle High,High School,No,Yes,24.3,No,Past,Bad,Yes,4033.52,1528.97,116.85,No
+Female,49,3,41-51,Middle High,High School,No,Yes,24.1,Yes,No,Bad,No,1590.92,747.85,65.05,No
+Female,20,1,<31,Middle High,College,No,No,19.8,Yes,No,Middle,No,1337.73,489,42.35,No
+Male,60,4,51-61,Middle High,High School,No,Yes,26,No,Current,Bad,No,1550.48,579.64,49.55,No
+Female,57,4,51-61,Middle High,High School,No,Yes,22.7,Yes,No,Bad,No,755.03,388.63,35.79,No
+Male,47,3,41-51,Low,High School,No,Yes,22.7,Yes,No,Bad,No,2437.59,1190.07,115.97,No
+Female,42,3,41-51,Low,High School,No,Yes,26.2,Yes,No,Bad,No,968.77,361.21,36.51,No
+Male,28,1,<31,Middle Low,High School,No,No,22.8,No,Current,Bad,No,1383.42,412.94,54.22,No
+Female,25,1,<31,Middle High,High School,No,No,20.8,No,No,Bad,No,946.48,612.34,55.29,No
+Male,42,3,41-51,Low,College,No,Yes,27.9,Yes,Current,Bad,No,2685.23,1249.67,105.68,Yes
+Female,42,3,41-51,Middle Low,Two-Three Years College,Yes,Yes,19.9,No,No,Bad,No,1487.48,911.24,55.16,No
+Male,76,6,>70,Middle Low,High School,No,Yes,24.7,Yes,Past,Bad,Yes,1396.46,851.89,52.03,No
+Male,39,2,31-41,Middle High,High School,No,Yes,22.4,No,Current,Bad,No,3819.65,1898.6,143.27,No
+Female,39,2,31-41,Middle High,College,Yes,Yes,22.2,Yes,No,Bad,No,1027.57,773.92,42.77,No
+Male,56,4,51-61,Middle Low,High School,No,Yes,23,Yes,Past,Bad,No,1741.13,819.05,68.81,No
+Female,63,5,61-71,Middle High,High School,Yes,Yes,22.1,Yes,No,Middle,Yes,1374.5,842.64,77.38,Yes
+Female,23,1,<31,Middle Low,College,No,No,30.8,No,No,Middle,No,1816.65,984.99,94.38,No
+Male,69,5,61-71,Middle Low,College,No,Yes,23.8,No,Past,Bad,Yes,1447.14,828.22,58.56,No
+Female,66,5,61-71,Middle High,High School,Yes,Yes,25.6,Yes,Past,Bad,Yes,1729.92,595.17,57.81,Yes
+Female,62,5,61-71,Low,High School,No,Yes,27.4,Yes,No,Bad,Yes,1241.87,1352,81.88,No
+Female,45,3,41-51,Low,High School,Yes,Yes,27.3,Yes,Current,Bad,No,1451.34,1282.45,48.96,No
+Female,46,3,41-51,Middle High,High School,Yes,Yes,26,Yes,No,Bad,No,756.09,473.43,42.36,No
+Male,45,3,41-51,Middle Low,High School,No,Yes,23.3,Yes,No,Bad,Yes,2523.63,1158.24,102.98,No
+Female,61,4,51-61,Low,Elementary School,Yes,Yes,36.1,Yes,No,Bad,Yes,1035.34,174.97,24.08,Yes
+Female,29,1,<31,Low,High School,Yes,Yes,31.1,Yes,Current,Bad,No,547.57,174.74,15.4,Yes
+Female,77,6,>70,Low,High School,No,Yes,26.1,Yes,No,Bad,No,1103.16,293.02,70.46,No
+Male,60,4,51-61,Low,High School,No,No,34.7,Yes,Past,Bad,Yes,2896.14,910.82,96.71,No
+Female,58,4,51-61,Low,High School,No,Yes,27.6,Yes,No,Bad,Yes,1104.61,348.24,41.13,Yes
+Female,22,1,<31,Low,College,Yes,No,19.1,Yes,No,Middle,No,971.59,791.05,24.57,Yes
+Female,80,6,>70,Middle Low,High School,No,Yes,24.1,Yes,No,Bad,Yes,543.83,362.6,16.86,No
+Female,40,2,31-41,Low,College,Yes,Yes,24.7,No,No,Bad,No,1921.42,1223.61,68.25,No
+Male,77,6,>70,Middle Low,Middle School,Yes,Yes,22.7,No,Past,Middle,Yes,844.76,139.03,22.06,No
+Female,71,5,61-71,Middle Low,High School,Yes,Yes,25.4,No,No,Middle,Yes,740.58,429.04,21.15,No
+Male,33,2,31-41,Low,High School,No,No,22.7,Yes,No,Bad,No,1423.16,5.28,9.18,No
+Female,69,5,61-71,Low,Middle School,Yes,Yes,25.1,Yes,No,Bad,Yes,1351.16,647.91,38.99,No
+Female,68,5,61-71,Low,Middle School,Yes,No,24.8,Yes,Past,Bad,No,1070.27,377.83,36.16,Yes
+Female,57,4,51-61,Low,High School,No,No,25.6,Yes,No,Bad,Yes,2265.08,1077.39,84.09,No
+Female,78,6,>70,Middle High,High School,No,Yes,27.9,Yes,No,Bad,Yes,2140.53,1335.34,80.8,No
+Female,80,6,>70,Low,High School,No,Yes,22.7,Yes,No,Bad,Yes,1102.75,415.58,35.58,No
+Female,77,6,>70,Middle Low,High School,No,Yes,32.3,Yes,No,Bad,Yes,1006.65,760.97,33.61,No
+Female,80,6,>70,Middle Low,High School,No,Yes,22,No,No,Bad,Yes,705.52,58.44,25.19,No
+Female,70,5,61-71,Low,Elementary School,Yes,Yes,25.9,Yes,Past,Bad,Yes,917.15,878.59,28.43,Yes
+Female,54,4,51-61,Low,High School,No,Yes,26.9,Yes,No,Bad,Yes,1027.36,317.23,32.42,No
+Female,43,3,41-51,Low,Two-Three Years College,Yes,Yes,34.1,Yes,No,Bad,Yes,1379.73,1067.58,48.39,No
+Male,36,2,31-41,Middle High,Two-Three Years College,No,Yes,27,Yes,Past,Middle,No,3802.92,1707.91,125.91,No
+Female,36,2,31-41,Middle High,High School,Yes,Yes,23.6,No,No,Middle,No,1828.39,1254.4,62.89,No
+Female,65,5,61-71,Low,High School,Yes,Yes,16.1,No,No,Bad,Yes,579.58,427.76,19.99,No
+Female,80,6,>70,Low,Elementary School,Yes,Yes,26.9,No,No,Bad,Yes,1037.22,366.8,30.5,No
+Male,62,5,61-71,Low,Elementary School,Yes,No,22.7,Yes,Current,Bad,No,885.88,187.34,26.02,Yes
+Female,80,6,>70,Middle High,High School,No,Yes,22.7,No,No,Bad,Yes,2240.43,1049.68,139.56,No
+Male,60,4,51-61,Low,Middle School,Yes,Yes,20,No,Current,Bad,No,1196.46,501.81,74.46,No
+Male,34,2,31-41,Low,High School,No,No,26.8,No,Current,Bad,No,1983.75,664.78,137.25,No
+Male,57,4,51-61,Low,Two-Three Years College,Yes,Yes,23.1,Yes,Current,Bad,Yes,2492.47,811.3,72.84,No
+Male,72,6,>70,Low,High School,No,Yes,22.7,Yes,No,Bad,No,1168.82,465.35,32.39,No
+Female,74,6,>70,Middle Low,No School  ,Yes,Yes,26.5,Yes,No,Bad,Yes,878.21,349.89,24.32,No
+Female,76,6,>70,Middle Low,High School,No,Yes,27.3,Yes,No,Bad,Yes,1294.48,608.12,46.42,No
+Male,47,3,41-51,Low,High School,No,No,26.1,Yes,Current,Bad,Yes,2189.15,994.17,92.34,No
+Male,73,6,>70,Middle High,High School,No,Yes,24.3,No,Past,Bad,No,1393.67,891.56,53.97,No
+Female,68,5,61-71,Middle High,Middle School,Yes,Yes,23.6,Yes,No,Bad,Yes,1134.47,443.23,39.59,No
+Female,42,3,41-51,Middle Low,High School,Yes,No,22.1,Yes,No,Bad,No,815.27,422.27,35.68,No
+Female,44,3,41-51,Middle Low,High School,No,Yes,22.7,Yes,No,Bad,No,752.9,522.05,29.99,No
+Female,80,6,>70,Middle Low,High School,No,Yes,22.7,Yes,No,Bad,Yes,919.81,546.09,22.75,No
+Male,60,4,51-61,Middle Low,High School,No,Yes,22.7,Yes,No,Bad,No,1580.31,568.55,50.41,No
+Male,72,6,>70,High,High School,Yes,Yes,21,No,Current,Bad,Yes,2031.25,1673.3,73.53,No
+Female,65,5,61-71,High,Middle School,Yes,Yes,20,Yes,No,Bad,No,1740.15,1119.15,59.3,No
+Female,39,2,31-41,Middle High,Two-Three Years College,No,Yes,19.8,Yes,No,Bad,No,1194.95,379.31,40.58,No
+Male,61,4,51-61,Middle High,Two-Three Years College,Yes,Yes,20.3,No,No,Bad,No,2482.85,1458.24,88.3,No
+Female,62,5,61-71,Middle High,High School,Yes,Yes,18.8,Yes,No,Middle,No,1536.85,980.29,54.68,No
+Female,72,6,>70,Middle High,Middle School,Yes,Yes,27.9,Yes,No,Bad,Yes,1313.73,740.41,42.17,Yes
+Female,40,2,31-41,Middle Low,High School,No,No,22.7,Yes,Current,Bad,No,1338.66,1443.3,120.64,Yes
+Male,78,6,>70,Low,High School,No,Yes,22.7,Yes,No,Bad,No,1932.15,1128.97,66.99,No
+Female,79,6,>70,Middle Low,High School,No,Yes,26.6,Yes,No,Bad,Yes,1166.22,1122.67,45.54,No
+Male,60,4,51-61,Middle Low,Middle School,No,Yes,26.1,Yes,Past,Middle,No,1806.51,543.81,90.97,No
+Female,58,4,51-61,Middle Low,Middle School,No,Yes,21.2,No,No,Bad,No,1904.45,927.05,92.94,No
+Male,40,2,31-41,High,Two-Three Years College,No,Yes,24.4,Yes,Current,Bad,No,3132.25,1390.85,160.31,No
+Female,42,3,41-51,High,Two-Three Years College,No,Yes,20.5,Yes,No,Bad,No,571.8,141.73,48.31,No
+Male,53,4,51-61,High,College,No,Yes,24.4,No,Past,Middle,No,1954.47,1345.68,80.97,No
+Female,48,3,41-51,High,College,No,Yes,24.6,Yes,No,Middle,No,1009.72,881.42,34.81,No
+Female,24,1,<31,High,College,Yes,No,21.6,No,Past,Bad,No,1502.55,619.58,61.05,Yes
+Female,70,5,61-71,Low,Elementary School,No,Yes,30.4,Yes,No,Bad,Yes,1385.18,247.15,36.57,No
+Female,54,4,51-61,Middle Low,High School,Yes,Yes,21.1,Yes,No,Bad,No,2378.73,2282.77,91.81,No
+Female,26,1,<31,Middle Low,College,No,No,18.4,Yes,No,Middle,No,1445.6,1814.89,55.1,No
+Female,48,3,41-51,High,College,Yes,Yes,20.8,Yes,No,Middle,No,1481.78,1277.91,88.03,No
+Female,21,1,<31,High,College,Yes,No,20.4,No,No,Good,No,647,512.43,17.53,No
+Male,72,6,>70,High,High School,No,Yes,23.8,No,Past,Bad,Yes,1550.22,533.37,67.79,No
+Female,66,5,61-71,High,Middle School,Yes,Yes,23.7,Yes,No,Bad,Yes,1254.95,840.83,38.24,No
+Male,73,6,>70,Low,High School,Yes,Yes,22.7,Yes,Past,Bad,Yes,1891.87,1436.21,81.44,No
+Female,71,5,61-71,Low,Middle School,Yes,Yes,21.2,Yes,No,Bad,Yes,1876.21,1081.26,49.76,No
+Male,67,5,61-71,High,Graduate School,Yes,Yes,29.4,No,Current,Bad,No,1684.12,1110.99,64.95,No
+Female,65,5,61-71,High,High School,Yes,Yes,19.8,No,No,Bad,No,1488.3,1169.43,63.95,No
+Male,75,6,>70,High,Graduate School,Yes,Yes,24.8,Yes,Past,Middle,Yes,1997.4,2406.36,97.6,No
+Female,71,5,61-71,High,High School,Yes,Yes,27.3,Yes,No,Bad,Yes,834.68,795.64,34.34,Yes
+Female,69,5,61-71,Middle High,High School,Yes,Yes,21.1,Yes,No,Bad,Yes,1805.39,1313.87,81.86,Yes
+Male,78,6,>70,Middle High,Middle School,No,Yes,26.4,No,Past,Middle,No,1551.29,605.72,51.87,No
+Female,74,6,>70,Middle Low,High School,No,Yes,27.8,No,No,Bad,Yes,757.24,702.65,22.19,No
+Male,48,3,41-51,Low,High School,No,Yes,22.7,Yes,No,Bad,No,2008.04,793.07,69.63,No
+Male,46,3,41-51,Low,High School,No,No,22.7,Yes,No,Bad,No,1591.82,479.39,62.67,No
+Female,60,4,51-61,Low,High School,No,Yes,28.2,No,No,Bad,Yes,1531.2,928.04,43.4,Yes
+Male,75,6,>70,Middle High,Two-Three Years College,Yes,Yes,23.1,Yes,Past,Bad,Yes,1834.41,890.18,73.33,No
+Female,74,6,>70,Middle High,High School,No,Yes,28.5,Yes,No,Bad,Yes,2489.35,1491.88,87.97,No
+Male,79,6,>70,Middle Low,High School,Yes,Yes,22.3,Yes,No,Bad,Yes,1786.51,518.85,59.65,Yes
+Female,74,6,>70,Middle Low,High School,Yes,Yes,19.5,No,No,Bad,Yes,1218.92,676.74,41.9,No
+Male,76,6,>70,Middle Low,Elementary School,Yes,Yes,23.8,Yes,Current,Good,Yes,2536.72,506.44,107.53,No
+Female,54,4,51-61,Middle High,High School,No,Yes,21.1,Yes,No,Middle,Yes,2010.99,954.7,64.9,No
+Male,31,1,<31,Middle High,High School,Yes,No,22.2,Yes,Current,Middle,No,3168.96,1771.23,99.7,Yes
+Male,29,1,<31,Middle High,College,No,No,24.5,Yes,No,Bad,No,2880.56,1107.35,120.92,No
+Female,80,6,>70,Middle Low,High School,No,Yes,16.6,Yes,No,Bad,Yes,1875.36,649.16,88.28,No
+Female,80,6,>70,Middle High,No School  ,Yes,Yes,24.2,Yes,No,Bad,Yes,701.78,602.38,20.9,No
+Female,60,4,51-61,Low,Middle School,Yes,Yes,22.9,No,No,Bad,No,1379.25,473.52,43.87,No
+Male,38,2,31-41,Low,Graduate School,Yes,Yes,28.1,Yes,Past,Bad,Yes,1975.03,973.88,109.41,Yes
+Female,34,2,31-41,Low,High School,No,Yes,17.2,Yes,Current,Bad,No,1104.72,527,38.8,No
+Male,64,5,61-71,Middle Low,Two-Three Years College,Yes,Yes,21.3,No,Past,Bad,No,2244.7,1633.67,79.37,No
+Female,61,4,51-61,Middle Low,Two-Three Years College,No,Yes,22.5,Yes,No,Bad,Yes,1198.11,742.65,34.99,No
+Male,25,1,<31,Low,College,Yes,No,24.3,Yes,No,Good,No,635.94,307.33,15.14,Yes
+Female,38,2,31-41,Middle High,Two-Three Years College,No,Yes,19.2,No,Current,Good,No,3246.33,424.91,94.95,Yes
+Female,57,4,51-61,Middle High,High School,No,Yes,26.9,Yes,Current,Bad,No,1465.41,858.71,58.47,No
+Female,80,6,>70,Middle High,High School,No,Yes,23.9,No,No,Bad,No,1448.59,1149.05,65.46,No
+Male,74,6,>70,Middle High,Graduate School,Yes,Yes,24.8,Yes,Current,Middle,Yes,1864.09,969.66,68.41,No
+Female,71,5,61-71,High,Middle School,Yes,Yes,25.5,Yes,No,Middle,No,1278.09,852.11,55.2,No
+Male,71,5,61-71,High,College,No,Yes,26,Yes,Past,Bad,Yes,2278.86,2059.32,83.56,No
+Female,67,5,61-71,High,Middle School,Yes,Yes,24.5,Yes,No,Bad,Yes,732.69,241.59,19.61,Yes
+Female,38,2,31-41,High,Graduate School,No,Yes,21.3,Yes,No,Bad,No,1233.47,809.02,50.83,Yes
+Male,80,6,>70,High,Elementary School,No,Yes,24,Yes,No,Good,No,761.91,280.02,31.93,No
+Female,71,5,61-71,High,High School,No,Yes,25.4,No,No,Bad,Yes,1523.85,708.12,49.16,No
+Male,47,3,41-51,Middle Low,Two-Three Years College,No,No,27,Yes,Past,Middle,No,1488.58,1081.52,66.24,No
+Male,44,3,41-51,Middle Low,Two-Three Years College,No,No,26.9,Yes,Current,Bad,No,3698.63,878.91,118.32,No
+Male,50,3,41-51,High,College,No,Yes,24.6,Yes,Current,Bad,Yes,2223.9,1297.01,119.87,No
+Female,48,3,41-51,High,Graduate School,Yes,Yes,25.7,Yes,No,Middle,No,2644.31,2277.8,114.04,No
+Male,31,1,<31,Low,College,No,Yes,29.7,Yes,Current,Bad,No,1428.48,860.27,51.1,No
+Female,30,1,<31,Low,College,Yes,Yes,22.6,No,Past,Middle,No,1543.5,1404.38,81.09,No
+Male,55,4,51-61,Middle High,High School,No,Yes,26.9,Yes,No,Bad,Yes,1619.98,899.99,72.81,No
+Female,61,4,51-61,Middle High,High School,Yes,Yes,24.8,Yes,No,Bad,No,2337.02,1348.26,67.19,No
+Female,53,4,51-61,Low,Graduate School,No,Yes,23.2,Yes,No,Good,No,1503.49,757.82,68,No
+Male,50,3,41-51,High,High School,No,Yes,22.7,Yes,No,Bad,No,3000.33,1589.95,106.54,No
+Female,48,3,41-51,High,College,No,Yes,20.1,Yes,No,Bad,No,1561.77,678.47,58.95,No
+Male,19,1,<31,High,High School,Yes,No,21.7,Yes,No,Good,No,1744.48,1214.61,63.56,No
+Male,65,5,61-71,Middle High,Elementary School,No,Yes,22.2,Yes,Current,Bad,Yes,1197.68,418.21,38.14,Yes
+Male,55,4,51-61,Low,High School,No,Yes,19.5,Yes,No,Bad,Yes,2387.99,1907.31,62.01,No
+Female,50,3,41-51,Low,Two-Three Years College,Yes,Yes,28.3,Yes,No,Bad,Yes,1166.05,380.85,30.92,No
+Female,23,1,<31,Low,College,No,No,36,Yes,Past,Bad,No,2239.76,873.52,77.63,No
+Male,39,2,31-41,Middle High,High School,No,No,22.7,Yes,No,Bad,No,1684,801.36,61.02,No
+Male,72,6,>70,High,Middle School,Yes,Yes,23.4,No,Past,Bad,Yes,1761.1,1172.29,63.48,No
+Female,70,5,61-71,High,Elementary School,No,Yes,25.4,No,No,Bad,Yes,1850.12,1264.72,84.59,No
+Female,80,6,>70,Low,Elementary School,Yes,Yes,22.8,Yes,No,Bad,Yes,1740.7,584.09,84.79,No
+Male,33,2,31-41,Middle High,Graduate School,No,No,22.7,No,Past,Bad,No,2047.87,770.64,91.33,No
+Male,68,5,61-71,Middle High,Middle School,No,Yes,28.6,No,Past,Bad,Yes,1644.72,1035.01,63.06,No
+Female,65,5,61-71,High,High School,Yes,Yes,19.7,Yes,No,Bad,Yes,945.44,579.89,31.47,Yes
+Male,57,4,51-61,Middle High,High School,No,Yes,25.7,No,Past,Bad,No,1737.5,844.2,72.67,No
+Female,51,3,41-51,Middle High,College,No,Yes,24.9,Yes,No,Middle,No,1971.4,2313.64,58.84,No
+Male,24,1,<31,Middle High,Two-Three Years College,No,No,27.5,No,Past,Middle,No,1277.73,368.73,29.52,No
+Female,20,1,<31,Middle High,Two-Three Years College,No,No,32,No,No,Middle,No,2125.83,263.61,48.71,No
+Male,52,4,51-61,High,High School,No,Yes,22.7,Yes,No,Bad,No,2064.49,1777.41,83.91,No
+Female,52,4,51-61,High,High School,No,Yes,30.9,Yes,No,Bad,No,876.39,1437.69,19.07,No
+Male,29,1,<31,Low,Two-Three Years College,No,Yes,29,Yes,No,Bad,No,2223.58,770.06,97.08,No
+Female,30,1,<31,Low,Two-Three Years College,Yes,Yes,26.7,Yes,No,Bad,No,1549.28,539.74,66.2,No
+Male,66,5,61-71,Middle High,High School,No,Yes,17.8,No,Past,Middle,No,923.63,883.27,28.59,No
+Female,63,5,61-71,Middle High,High School,Yes,Yes,20.6,Yes,No,Middle,No,1240.69,811.96,49.14,No
+Female,32,2,31-41,Middle Low,College,No,No,19.2,No,No,Bad,No,1339.1,888.32,45.92,No
+Male,53,4,51-61,Middle High,College,Yes,Yes,25,Yes,Past,Bad,No,1634.17,795.67,38.87,No
+Male,57,4,51-61,Low,College,Yes,Yes,29.6,No,Current,Middle,Yes,3363.84,2130.17,105.51,Yes
+Male,51,3,41-51,Low,College,No,Yes,19.5,No,Past,Middle,No,2608.92,1610.72,67.33,No
+Female,40,2,31-41,Low,College,Yes,Yes,34.6,Yes,No,Bad,No,2212.29,1403.24,75.53,No
+Male,66,5,61-71,Low,College,Yes,Yes,22.2,Yes,Past,Bad,No,3391.25,1041.58,95.81,No
+Female,74,6,>70,High,Elementary School,Yes,Yes,24.8,Yes,No,Bad,Yes,1608.67,756.84,58.08,No
+Male,46,3,41-51,Middle Low,High School,No,Yes,23.6,Yes,Past,Middle,No,1404.21,454.99,44.19,No
+Female,48,3,41-51,Middle Low,Middle School,No,Yes,23.6,No,No,Bad,No,2335.11,1374.06,93.75,No
+Male,34,2,31-41,Low,High School,No,No,22.3,No,Current,Middle,No,2052.45,898.19,71.05,No
+Male,75,6,>70,Middle Low,Middle School,Yes,Yes,22.9,Yes,Past,Good,Yes,1865.4,2008.16,59.41,No
+Female,76,6,>70,Middle High,High School,No,Yes,24.1,No,No,Bad,No,738.11,545.41,24.38,No
+Female,71,5,61-71,Middle Low,Elementary School,Yes,Yes,22.7,Yes,No,Middle,Yes,4905.03,3243.33,231.74,No
+Male,77,6,>70,Middle Low,Middle School,Yes,Yes,27.8,No,Current,Bad,Yes,2010.31,308.44,42.32,No
+Female,76,6,>70,Middle High,Elementary School,Yes,Yes,20.1,Yes,No,Bad,Yes,901.94,567.22,19.14,No
+Male,38,2,31-41,Middle High,College,No,Yes,26.2,No,Past,Bad,No,1931.17,1624.15,89.92,No
+Female,34,2,31-41,Middle High,High School,No,Yes,23.1,Yes,Past,Bad,No,1275.75,616.97,65.31,No
+Female,51,3,41-51,Low,High School,No,Yes,30.4,Yes,No,Bad,Yes,1244.84,727.91,28.79,Yes
+Male,56,4,51-61,Low,High School,No,Yes,24.5,Yes,Current,Middle,No,3007.18,622.23,114.32,No
+Female,78,6,>70,Middle High,High School,Yes,Yes,21.8,No,No,Good,Yes,702.52,612.45,24.06,No
+Female,76,6,>70,Middle High,Middle School,Yes,Yes,28.3,Yes,No,Bad,Yes,922.86,258.51,16.51,No
+Female,77,6,>70,Middle Low,Elementary School,Yes,Yes,22.8,Yes,No,Middle,Yes,1100.45,1999.17,50.54,No
+Male,38,2,31-41,Middle Low,High School,No,Yes,25,Yes,Current,Bad,No,1251.13,272.36,39.58,No
+Female,34,2,31-41,Middle Low,Two-Three Years College,Yes,Yes,26.1,No,No,Middle,No,1142.16,804.79,40.88,No
+Male,80,6,>70,High,College,Yes,Yes,28.7,No,Past,Bad,Yes,961.6,476.88,32.56,No
+Female,65,5,61-71,Middle High,High School,Yes,Yes,22.2,Yes,Past,Middle,Yes,1297.3,542.07,49.74,Yes
+Male,38,2,31-41,Middle Low,High School,No,No,24.2,No,Current,Bad,No,1239.45,358.85,52.68,No
+Male,26,1,<31,Middle Low,College,No,Yes,27.5,Yes,No,Bad,No,1913.82,424.52,87.99,No
+Female,24,1,<31,Middle Low,College,Yes,Yes,20,No,No,Bad,No,2026,1096.67,109.7,No
+Male,57,4,51-61,Middle High,High School,No,Yes,25.9,No,Past,Middle,No,1438.56,509.64,60.36,No
+Female,55,4,51-61,Middle High,High School,Yes,Yes,27,Yes,No,Bad,Yes,1816.95,672.3,58.23,Yes
+Female,24,1,<31,Middle High,Two-Three Years College,No,No,20.6,Yes,Past,Bad,No,1200.2,645.21,50.27,No
+Female,26,1,<31,Middle High,College,No,No,20.3,Yes,No,Bad,No,1760.24,481.79,54.54,No
+Male,31,1,<31,High,College,No,No,30.5,No,No,Bad,No,3401.49,980.41,186.08,Yes
+Female,46,3,41-51,Middle High,College,No,Yes,22.3,Yes,No,Bad,No,690.35,821.28,24.24,No
+Male,38,2,31-41,Middle Low,College,No,Yes,31.7,No,Current,Bad,No,4642.54,2546.3,172.07,No
+Female,25,1,<31,Middle Low,Two-Three Years College,No,Yes,22.4,Yes,No,Bad,No,1837.87,588.52,76.04,Yes
+Male,29,1,<31,High,College,No,No,28,No,No,Bad,No,2910.21,1041.66,115.45,No
+Male,42,3,41-51,Middle Low,High School,No,Yes,24.1,No,Current,Bad,No,2138.47,1131,166.41,No
+Female,43,3,41-51,Middle Low,High School,No,Yes,22.7,Yes,No,Bad,No,966.44,602.41,71.88,No
+Female,39,2,31-41,High,Graduate School,No,No,19.2,No,Past,Bad,No,2333.8,1307.66,83.94,Yes
+Male,24,1,<31,Middle Low,College,No,Yes,29.7,No,No,Middle,No,2004.96,557.35,56.75,No
+Female,24,1,<31,Low,College,No,Yes,23.8,Yes,No,Bad,No,2499.63,693.15,68.19,Yes
+Male,24,1,<31,Low,College,Yes,No,21.5,No,Past,Middle,No,3479.75,1052.48,133.33,No
+Male,66,5,61-71,High,Graduate School,Yes,Yes,26.1,Yes,Past,Middle,No,1919.92,1205.96,104.03,No
+Female,60,4,51-61,High,High School,Yes,Yes,21.2,Yes,No,Bad,No,1447.21,1517.68,69,No
+Male,56,4,51-61,High,Graduate School,No,Yes,24.9,Yes,Past,Bad,No,1435.7,629.56,60.64,No
+Female,56,4,51-61,High,College,Yes,Yes,22.1,Yes,No,Bad,No,1421.77,891.21,42.44,No
+Female,29,1,<31,High,College,No,No,20.3,Yes,No,Bad,No,1653.73,1157.93,55.9,No
+Male,25,1,<31,High,College,Yes,No,23.7,No,No,Bad,No,2353.78,642.29,61.45,No
+Male,57,4,51-61,High,High School,No,Yes,26.1,No,No,Bad,Yes,3131.22,1532.82,116.62,No
+Female,59,4,51-61,High,High School,Yes,Yes,21.9,No,No,Bad,Yes,1732.34,641.83,68.75,No
+Male,26,1,<31,High,High School,No,No,22.7,Yes,No,Bad,No,3834.72,2188.39,202.91,No
+Male,59,4,51-61,High,College,No,Yes,22.7,Yes,Past,Bad,Yes,2878.89,1689.32,104.21,No
+Female,55,4,51-61,High,College,Yes,Yes,25.7,No,No,Bad,Yes,1857.12,1689.16,53.19,Yes
+Male,41,2,31-41,Middle High,College,No,Yes,26.9,Yes,Past,Bad,No,4078.25,2443.37,132.6,No
+Female,40,2,31-41,High,College,No,Yes,22.7,Yes,Past,Bad,No,1072.54,1619.11,55.18,No
+Male,68,5,61-71,Middle High,Two-Three Years College,No,Yes,22.5,No,Past,Bad,Yes,2214.1,1384.35,64.9,No
+Female,66,5,61-71,High,High School,Yes,Yes,19.6,Yes,No,Bad,Yes,1304.86,1000.19,46.54,No
+Male,67,5,61-71,High,College,No,Yes,20.8,Yes,No,Bad,No,1433.23,1296.29,61.39,No
+Female,62,5,61-71,High,High School,Yes,Yes,24.3,No,No,Bad,Yes,1343.69,1530.16,41.74,No
+Female,80,6,>70,High,High School,No,Yes,22.7,Yes,No,Bad,No,1234.21,696.5,33.8,No
+Female,41,2,31-41,High,Two-Three Years College,No,Yes,21.4,No,No,Middle,No,1155.7,249.61,40.1,No
+Male,44,3,41-51,High,College,No,Yes,27.4,Yes,Past,Middle,Yes,1701.05,378.32,58.18,No
+Female,62,5,61-71,High,College,No,Yes,20.5,Yes,No,Bad,No,1322.4,727.71,41.22,No
+Male,59,4,51-61,High,College,No,Yes,28.5,No,Past,Middle,Yes,2422.68,843.74,109.48,No
+Female,55,4,51-61,High,High School,Yes,Yes,21.2,Yes,No,Bad,No,1081.32,1094.51,38.91,No
+Female,27,1,<31,High,College,No,No,22.4,Yes,No,Bad,No,1033.6,1005.39,41.37,Yes
+Female,26,1,<31,High,Two-Three Years College,No,No,21.9,Yes,No,Middle,No,625.72,124.77,23.64,No
+Male,67,5,61-71,High,Graduate School,No,Yes,27.2,Yes,Past,Middle,Yes,2505.25,2282.63,88.97,No
+Female,65,5,61-71,High,Graduate School,No,Yes,22.9,Yes,No,Middle,No,2544.23,2432.84,91.33,No
+Female,80,6,>70,High,High School,No,Yes,21.7,Yes,No,Bad,Yes,1794.46,1522.85,56.54,No
+Female,66,5,61-71,High,College,Yes,Yes,23.4,Yes,No,Good,Yes,1310.66,867.61,50.77,No
+Male,68,5,61-71,High,Graduate School,Yes,Yes,24.8,Yes,Past,Middle,Yes,1040.44,1174.74,50.8,No
+Female,62,5,61-71,High,College,No,Yes,19.8,No,No,Bad,No,1008.13,528.25,37.11,No
+Male,34,2,31-41,High,High School,No,No,23.3,No,Past,Bad,No,1184.01,898.91,59.46,No
+Female,43,3,41-51,High,College,No,Yes,21.4,Yes,No,Middle,No,2237.38,721.58,144.44,No
+Male,54,4,51-61,Middle Low,College,No,Yes,24.6,No,Past,Middle,Yes,1936.84,1135.11,83.69,No
+Female,49,3,41-51,Middle Low,High School,Yes,Yes,21.9,No,No,Bad,No,1746.73,1115.76,68.38,No
+Female,23,1,<31,Middle Low,College,Yes,No,24,No,Past,Bad,No,2147.94,1496.83,94.57,No
+Female,57,4,51-61,High,High School,Yes,Yes,21.5,Yes,No,Bad,Yes,2190.2,749.92,59.15,No
+Male,48,3,41-51,High,College,No,Yes,24.3,Yes,Past,Middle,No,1411.54,874.99,53.5,No
+Female,42,3,41-51,High,Two-Three Years College,No,Yes,17.1,No,Past,Middle,No,1420.47,1411.44,36.06,No
+Female,73,6,>70,High,Middle School,Yes,Yes,25.9,Yes,No,Bad,Yes,1259,776.74,32.96,No
+Male,65,5,61-71,High,College,No,Yes,28.2,Yes,No,Middle,Yes,1829.21,1044.54,65.21,No
+Female,37,2,31-41,Middle High,Graduate School,Yes,Yes,24.9,Yes,No,Bad,No,1935.41,903.8,67.47,No
+Male,62,5,61-71,Middle High,High School,No,Yes,20.4,No,No,Bad,No,1923.34,1281.47,67.22,Yes
+Female,58,4,51-61,Middle High,High School,Yes,Yes,21.8,Yes,No,Bad,Yes,487.98,413.86,14.19,No
+Female,33,2,31-41,Middle High,College,No,Yes,16.2,Yes,No,Bad,No,2000.91,713.03,47.11,Yes
+Male,31,1,<31,Middle High,College,No,No,19.4,Yes,No,Bad,No,2341.8,1723.07,100.85,Yes
+Female,59,4,51-61,Middle High,Two-Three Years College,Yes,Yes,27.8,No,No,Bad,No,2151.55,1185,56.17,No
+Male,60,4,51-61,Middle High,College,Yes,Yes,22.2,Yes,Past,Good,No,1871.19,1233.26,48.04,Yes
+Female,32,2,31-41,Middle High,College,Yes,No,20.4,Yes,No,Bad,No,2084.59,1122.64,84.63,Yes
+Male,27,1,<31,Middle High,College,Yes,No,27.4,Yes,No,Bad,No,2056.78,731.55,64.89,Yes
+Male,42,3,41-51,Middle High,College,No,Yes,25.4,No,Current,Bad,No,4610.22,1662.29,274.65,Yes
+Female,41,2,31-41,Middle High,College,Yes,Yes,19.6,Yes,No,Bad,No,857.44,866.59,34.91,Yes
+Female,60,4,51-61,High,College,Yes,Yes,27.8,No,No,Middle,No,1621.78,1130.19,78.33,No
+Female,80,6,>70,High,High School,No,Yes,18.4,Yes,No,Bad,No,827.79,318.18,45.65,No
+Female,78,6,>70,Low,No School  ,Yes,Yes,23.9,Yes,No,Bad,Yes,305.68,47.58,7.42,Yes
+Male,59,4,51-61,Middle High,High School,No,Yes,25.4,No,No,Bad,Yes,3403.35,914.24,124.02,No
+Female,54,4,51-61,Middle High,Middle School,No,Yes,23.7,No,No,Bad,No,1255.71,692.06,68.06,No
+Female,80,6,>70,High,Elementary School,Yes,Yes,26.6,No,No,Bad,Yes,1437.02,653.15,56.24,No
+Female,24,1,<31,Middle High,High School,No,No,17.6,Yes,No,Bad,No,3005.09,1402.38,83.61,No
+Male,23,1,<31,Middle High,Two-Three Years College,Yes,No,20.4,Yes,No,Bad,No,2200.29,1208.32,105.24,No
+Male,69,5,61-71,Low,High School,Yes,Yes,21.8,No,Past,Bad,Yes,619.81,259.74,16.25,No
+Female,62,5,61-71,Low,Middle School,No,Yes,20.3,Yes,Past,Middle,No,471.17,525.19,10.19,No
+Female,75,6,>70,Middle Low,Elementary School,Yes,Yes,27.4,No,No,Bad,No,641.35,384,19.75,No
+Female,79,6,>70,Low,No School  ,Yes,Yes,25.2,No,No,Middle,Yes,425.56,172.25,17.68,No
+Male,76,6,>70,Low,Elementary School,Yes,Yes,21.3,No,Past,Bad,Yes,1174.69,329.43,50.78,No
+Female,61,4,51-61,Middle High,Middle School,No,Yes,29.3,Yes,No,Bad,No,1697.8,607.38,39.39,No
+Male,74,6,>70,Middle High,Middle School,Yes,Yes,24.7,Yes,No,Middle,Yes,1316,445.81,35.7,No
+Female,66,5,61-71,Middle High,Elementary School,Yes,Yes,29.3,No,No,Middle,No,1079.02,454.97,27.74,No
+Female,73,6,>70,Low,Elementary School,Yes,Yes,22.5,Yes,No,Bad,Yes,761.65,404.45,28.84,No
+Female,80,6,>70,Middle Low,No School  ,Yes,Yes,23.7,No,No,Bad,Yes,1061.47,595.59,44.03,No
+Male,60,4,51-61,Low,High School,No,No,31.4,Yes,Past,Bad,Yes,2250.11,526.91,83.68,No
+Male,80,6,>70,Low,Elementary School,No,Yes,25.1,No,Past,Bad,Yes,1713.29,267.5,65.43,No
+Male,66,5,61-71,Middle Low,Elementary School,Yes,Yes,28.2,Yes,Past,Bad,Yes,760.41,405.12,16.93,No
+Female,64,5,61-71,Middle Low,No School  ,Yes,Yes,27,No,No,Bad,Yes,679.37,517.6,14.4,No
+Male,39,2,31-41,Low,Two-Three Years College,No,No,22.7,Yes,Past,Bad,No,1434.29,303.41,34.17,Yes
+Female,80,6,>70,Middle Low,Elementary School,No,Yes,24.3,No,No,Bad,Yes,954.37,503.95,37.11,Yes
+Male,73,6,>70,Middle Low,Elementary School,No,Yes,24.6,No,No,Bad,Yes,1839.64,735.14,59.25,No
+Female,67,5,61-71,Middle Low,Elementary School,Yes,Yes,31.7,Yes,No,Bad,Yes,1687.09,506.66,48.13,No
+Male,41,2,31-41,Middle High,High School,No,No,31.2,Yes,Current,Bad,No,898.82,161.38,20.3,No
+Female,62,5,61-71,Middle Low,High School,Yes,Yes,19.4,Yes,No,Bad,Yes,856.9,206.07,24.62,No
+Female,65,5,61-71,Middle High,High School,Yes,Yes,20.9,No,Past,Bad,Yes,1333.37,425.75,42.03,No
+Male,80,6,>70,Middle Low,High School,Yes,Yes,26.8,Yes,Past,Bad,Yes,1786.41,353.16,34.65,No
+Male,25,1,<31,Low,High School,No,No,41.5,No,No,Bad,No,1877.46,621.58,65.73,No
+Male,56,4,51-61,High,Middle School,No,Yes,23.1,Yes,Past,Bad,No,1358.12,650.05,47.1,No
+Female,50,3,41-51,High,Middle School,No,Yes,26.2,Yes,No,Bad,No,1957.19,1186.19,125.01,No
+Female,27,1,<31,High,Two-Three Years College,No,No,23.1,No,Current,Middle,No,3226.82,1757.18,84.38,No
+Male,23,1,<31,High,Two-Three Years College,No,No,20,No,Current,Bad,No,2150.22,649.49,66.15,No
+Male,80,6,>70,Middle Low,Elementary School,Yes,Yes,22.7,No,Past,Bad,Yes,1908.72,677.95,81.67,Yes
+Female,76,6,>70,Middle Low,Elementary School,Yes,Yes,30.6,Yes,No,Bad,Yes,1308.53,550.53,62.1,No
+Male,59,4,51-61,Middle High,Middle School,No,Yes,28,Yes,Past,Bad,Yes,1627.94,1020.62,55.8,No
+Male,60,4,51-61,Low,Middle School,No,Yes,22.7,Yes,Past,Bad,Yes,1438.44,715.09,51.72,No
+Female,61,4,51-61,Low,Middle School,No,Yes,24.7,No,No,Bad,No,959.73,403.03,32.39,No
+Male,61,4,51-61,Middle Low,High School,No,Yes,24.4,Yes,No,Bad,No,1455,263.09,34.93,No
+Female,59,4,51-61,Middle Low,High School,No,Yes,22.7,Yes,No,Bad,No,1445.28,583.66,47.29,No
+Male,28,1,<31,Middle Low,College,No,No,29,Yes,Past,Bad,No,3452.7,2120.94,138.32,No
+Female,55,4,51-61,High,High School,Yes,Yes,24.1,No,No,Bad,Yes,919.55,483.16,27.41,No
+Male,54,4,51-61,Low,Graduate School,No,Yes,21.5,Yes,Past,Middle,No,2503.21,1101.58,84.45,No
+Female,54,4,51-61,Low,College,No,Yes,18.9,Yes,No,Bad,No,1531.25,860.8,52.11,No
+Male,69,5,61-71,Low,Elementary School,No,Yes,20.7,No,Past,Bad,No,1659.26,206.02,33.19,No
+Female,61,4,51-61,Low,High School,No,Yes,22.7,No,Current,Bad,Yes,1285.84,315.3,31.93,No
+Male,41,2,31-41,High,High School,No,Yes,23.1,Yes,Past,Bad,No,1566.36,989.74,59.68,No
+Female,41,2,31-41,High,Two-Three Years College,No,Yes,28.4,Yes,No,Bad,No,859.27,701.75,55.19,No
+Male,64,5,61-71,Middle High,Two-Three Years College,No,Yes,26,Yes,Past,Middle,Yes,3141.61,1735.88,133.26,No
+Female,63,5,61-71,Middle High,Two-Three Years College,Yes,Yes,23.4,Yes,No,Middle,Yes,1594.49,839.42,67.14,No
+Male,57,4,51-61,Middle High,College,No,Yes,29,No,Current,Bad,No,1962.25,1230.23,101.2,No
+Female,53,4,51-61,High,High School,No,Yes,36.5,Yes,No,Bad,Yes,1005.2,508.92,25.75,No
+Female,27,1,<31,High,College,No,No,28.2,Yes,Past,Bad,No,2468.7,1324.53,47.32,Yes
+Male,25,1,<31,Middle High,College,No,No,27.8,Yes,No,Middle,No,1940.89,367.94,87.16,No
+Male,64,5,61-71,Middle High,Graduate School,No,Yes,27.9,Yes,Current,Bad,Yes,3806.14,2217.23,206.58,No
+Female,62,5,61-71,Middle High,Graduate School,Yes,Yes,22.5,No,No,Middle,Yes,2286.2,1414.85,48.81,No
+Male,58,4,51-61,Middle High,College,No,Yes,24.9,No,Past,Bad,Yes,2390.05,1364.21,108.38,No
+Female,54,4,51-61,Middle High,Two-Three Years College,No,Yes,30,Yes,No,Middle,No,1909.38,915.69,73.58,No
+Male,25,1,<31,Middle High,College,Yes,No,23.6,Yes,No,Middle,No,1180.91,500.94,51.1,No
+Female,29,1,<31,Middle High,High School,Yes,Yes,25.1,Yes,No,Bad,No,1792.53,874.28,82.72,No
+Male,29,1,<31,Middle High,High School,No,Yes,24.6,Yes,Current,Bad,Yes,2805.48,1218.94,94.82,No
+Female,63,5,61-71,Low,Middle School,Yes,Yes,23.9,Yes,No,Bad,Yes,2501.53,790.22,77.44,No
+Female,61,4,51-61,High,Two-Three Years College,Yes,Yes,18.3,No,No,Middle,No,1355.48,806.48,48.45,Yes
+Male,53,4,51-61,Middle Low,College,No,Yes,23.9,Yes,Current,Bad,Yes,1751.21,1031.41,71.71,Yes
+Female,50,3,41-51,Middle Low,College,Yes,Yes,32.8,Yes,No,Bad,No,2286.22,1321.97,96.62,No
+Female,21,1,<31,Middle Low,College,Yes,No,24.4,Yes,No,Middle,No,1802.31,530,80.87,No
+Male,22,1,<31,Low,High School,Yes,No,26.5,No,Past,Bad,No,2228.62,525.64,91.72,No
+Female,54,4,51-61,Middle High,Two-Three Years College,Yes,Yes,23.9,Yes,No,Bad,Yes,1762.24,781.44,86.82,Yes
+Male,53,4,51-61,Middle High,College,No,Yes,25.8,Yes,Current,Bad,Yes,3644.35,1534.07,260.73,No
+Male,36,2,31-41,Low,Two-Three Years College,No,Yes,19.8,Yes,Past,Bad,No,2305.54,918.88,74.85,Yes
+Female,36,2,31-41,Low,College,No,Yes,21.1,Yes,Past,Bad,No,1490.28,889.03,56.24,No
+Male,47,3,41-51,High,College,No,Yes,29.5,No,Current,Middle,No,1282.33,753.16,93.65,No
+Male,65,5,61-71,Middle High,High School,Yes,Yes,22.1,No,Current,Bad,Yes,2720.83,1179.13,112.45,No
+Female,62,5,61-71,Middle High,Middle School,Yes,Yes,23.8,Yes,No,Bad,Yes,1116.48,763.33,51.93,Yes
+Female,54,4,51-61,Middle High,High School,No,Yes,21.8,Yes,No,Bad,No,1568.74,567.74,51.73,No
+Male,26,1,<31,Middle High,College,No,No,25.3,Yes,No,Middle,No,2396.55,2037.36,67.71,No
+Female,50,3,41-51,Middle High,High School,Yes,Yes,20.8,Yes,No,Middle,No,1411.05,818.81,55.41,No
+Female,25,1,<31,High,College,No,No,26.8,No,No,Good,No,2462.29,1774.37,111.12,No
+Female,19,1,<31,High,High School,No,No,27.3,No,No,Bad,No,2534.23,2017.13,109.32,Yes
+Male,66,5,61-71,High,Graduate School,No,Yes,20.5,Yes,Past,Good,No,1588.89,1030.92,52.13,No
+Female,64,5,61-71,High,Two-Three Years College,No,Yes,20.3,Yes,No,Bad,No,1279.2,920.89,55.09,No
+Female,36,2,31-41,High,College,Yes,No,15.4,No,No,Bad,No,1739.74,523.57,61.64,No
+Female,56,4,51-61,Middle Low,Middle School,Yes,Yes,23.2,Yes,No,Bad,Yes,1318.19,422.17,54.17,No
+Male,79,6,>70,Middle Low,High School,Yes,Yes,24.6,No,Past,Bad,Yes,1394.15,634.75,45.78,No
+Female,72,6,>70,Middle Low,Elementary School,No,Yes,25.1,Yes,No,Bad,Yes,1144.62,741.29,36.41,No
+Male,80,6,>70,Low,High School,No,Yes,25.4,No,No,Bad,No,1403.57,528.46,46.25,No
+Female,80,6,>70,Low,No School  ,Yes,Yes,25.5,No,No,Bad,Yes,939.8,435.44,40.37,No
+Female,80,6,>70,High,High School,No,Yes,22.7,Yes,No,Bad,No,1194.07,316.56,52.83,No
+Male,54,4,51-61,Low,College,No,No,26.1,Yes,Current,Middle,No,3212.91,1291.95,194.93,No
+Male,80,6,>70,High,Middle School,Yes,Yes,23,No,No,Middle,Yes,1616.25,841.44,65.74,No
+Male,47,3,41-51,Middle Low,High School,Yes,No,25.5,No,Current,Bad,No,1265.4,274.93,35.29,No
+Female,65,5,61-71,Low,Graduate School,No,No,21.6,Yes,No,Bad,No,2390.02,1416.99,110.67,No
+Female,67,5,61-71,Middle High,Middle School,No,Yes,24.2,Yes,No,Middle,Yes,929.25,477.54,33.61,No
+Male,68,5,61-71,High,Elementary School,Yes,Yes,23,Yes,Current,Bad,Yes,1327.74,833.77,48.18,No
+Female,65,5,61-71,High,Elementary School,No,Yes,23.9,No,No,Middle,No,903.4,187.33,22.05,No
+Male,44,3,41-51,Middle High,High School,No,No,26.6,Yes,Current,Bad,No,3161.92,508.39,98.1,No
+Female,44,3,41-51,Middle Low,Two-Three Years College,No,Yes,21.2,Yes,No,Good,No,1845.55,1676.77,36.86,No
+Male,45,3,41-51,Low,College,No,Yes,23.7,Yes,Past,Middle,Yes,2608.65,587.26,75.49,No
+Female,60,4,51-61,Middle Low,High School,No,Yes,27.4,Yes,No,Bad,Yes,1732.51,339.54,69.1,Yes
+Male,29,1,<31,Low,High School,Yes,No,22.2,Yes,Past,Bad,No,2561.95,477.73,97.15,Yes
+Female,21,1,<31,Low,College,Yes,No,17.2,Yes,No,Bad,No,1486.62,135.16,52.34,No
+Female,46,3,41-51,Middle Low,High School,No,Yes,22,Yes,No,Bad,No,1399.96,155.42,41.04,No
+Male,45,3,41-51,Middle Low,High School,No,Yes,22.7,Yes,No,Bad,No,2290.91,635.79,69.8,No
+Male,65,5,61-71,Middle Low,Two-Three Years College,No,Yes,26.8,Yes,Past,Middle,Yes,1969.21,1015.98,57.23,No
+Female,62,5,61-71,Middle Low,High School,Yes,Yes,31.7,Yes,No,Bad,Yes,338,411.2,12.82,Yes
+Female,31,1,<31,Middle Low,High School,No,No,22.7,Yes,No,Bad,No,1243.12,200.54,39.31,No
+Female,30,1,<31,Middle Low,High School,No,No,22.7,Yes,No,Bad,No,1763.34,202.05,63.94,No
+Male,49,3,41-51,Low,High School,No,Yes,30,Yes,No,Bad,No,2186.19,842.89,68.38,No
+Female,48,3,41-51,Low,High School,No,Yes,32.8,Yes,No,Middle,No,870.95,269.69,27.89,No
+Male,74,6,>70,Middle Low,High School,No,Yes,22.3,Yes,No,Bad,Yes,2386.7,1225.11,88.92,No
+Female,65,5,61-71,Middle Low,Elementary School,No,Yes,26.5,Yes,No,Middle,No,1638.72,757.38,45.04,No
+Female,45,3,41-51,Middle Low,Graduate School,No,Yes,25.6,Yes,No,Bad,No,2502.02,1581.83,86.89,No
+Male,22,1,<31,Middle Low,College,Yes,No,21.5,Yes,No,Bad,No,2149.92,973.88,140.69,No
+Male,55,4,51-61,Middle High,High School,No,Yes,22.7,Yes,No,Bad,No,1877.58,1111.73,65.14,No
+Female,51,3,41-51,Middle High,Two-Three Years College,Yes,Yes,19.5,Yes,Past,Bad,No,2820.58,1777.48,100.77,Yes
+Female,25,1,<31,High,Two-Three Years College,No,No,20.2,Yes,Past,Middle,Yes,1598.12,1250.48,35.92,Yes
+Male,22,1,<31,High,Two-Three Years College,No,No,26.9,Yes,Current,Bad,No,2925.39,620.7,60.89,No
+Male,71,5,61-71,Middle High,High School,No,Yes,24.3,No,Past,Bad,Yes,2719.88,1247.65,113.59,No
+Female,63,5,61-71,Middle High,Middle School,Yes,Yes,22.8,No,No,Bad,Yes,953.12,491.69,37.7,No
+Male,64,5,61-71,Middle High,College,Yes,Yes,15.1,No,Current,Bad,No,2514.2,929.51,101.12,No
+Female,67,5,61-71,High,Graduate School,Yes,Yes,19.6,No,No,Bad,No,1232.86,815.83,54.06,No
+Female,33,2,31-41,Middle High,College,No,No,18.2,No,Past,Bad,No,1269.51,912.59,61,No
+Female,28,1,<31,Middle Low,College,No,No,23.6,No,No,Middle,No,628.23,485.24,18.07,No
+Female,44,3,41-51,Middle High,High School,Yes,Yes,32.2,Yes,No,Middle,No,1448.23,968.1,53.28,No
+Female,19,1,<31,Middle High,Two-Three Years College,Yes,No,19.4,Yes,No,Bad,No,1198.03,847.8,23.42,No
+Male,64,5,61-71,High,High School,Yes,Yes,29.4,Yes,Past,Middle,Yes,1942.88,1638.72,88.9,No
+Female,61,4,51-61,High,Middle School,No,Yes,24.3,No,No,Middle,Yes,1630.57,1534.65,65.56,No
+Female,38,2,31-41,Middle High,College,No,No,31.6,Yes,No,Bad,Yes,1216.01,1185.86,44.15,No
+Male,69,5,61-71,Low,College,No,Yes,24,Yes,Past,Middle,No,3271.58,1357.5,89.92,No
+Female,60,4,51-61,Low,College,Yes,Yes,27.1,Yes,No,Bad,Yes,941.09,574.32,21.84,No
+Male,51,3,41-51,High,High School,No,Yes,22.7,Yes,No,Bad,No,1668.82,681.68,68.51,No
+Female,49,3,41-51,High,College,No,Yes,29.4,Yes,No,Middle,No,1994.59,931.48,98.31,No
+Male,20,1,<31,High,Two-Three Years College,Yes,No,31,Yes,No,Bad,No,1744.99,998.29,112.95,No
+Female,69,5,61-71,Low,Middle School,Yes,Yes,22.4,No,No,Bad,Yes,1859.81,880.17,63.18,No
+Male,41,2,31-41,Low,High School,Yes,No,34.1,Yes,Past,Bad,Yes,2333.97,1002.32,72.23,Yes
+Female,80,6,>70,High,High School,No,Yes,21.3,Yes,No,Bad,Yes,1426.95,1391.3,64.28,No
+Female,75,6,>70,Middle Low,High School,No,Yes,21.4,No,No,Bad,Yes,1554.98,652.66,38.95,No
+Male,74,6,>70,High,High School,No,Yes,23.9,Yes,Past,Bad,Yes,3799.1,2295.68,189.5,No
+Female,72,6,>70,High,High School,No,Yes,22.7,Yes,No,Bad,No,1402.39,689.14,59.9,No
+Male,49,3,41-51,High,High School,No,Yes,24.5,Yes,Past,Bad,Yes,2996.93,961.08,117.7,No
+Female,47,3,41-51,High,High School,No,Yes,31.1,Yes,No,Bad,No,3268.97,1320.83,137.36,No
+Male,20,1,<31,High,College,No,No,23.8,Yes,No,Middle,No,4283.69,1260.96,293.87,Yes
+Male,80,6,>70,High,High School,No,Yes,26.1,Yes,Past,Bad,No,2613.53,1220.93,107.65,Yes
+Female,77,6,>70,High,High School,No,Yes,24,Yes,No,Bad,Yes,1704.16,874.86,79.63,Yes
+Male,62,5,61-71,High,Graduate School,Yes,Yes,25.7,No,Past,Middle,No,2006.53,1378.95,64.44,Yes
+Female,59,4,51-61,High,College,Yes,Yes,18.6,Yes,No,Bad,No,1517.93,1004.6,57.2,Yes
+Male,31,1,<31,High,College,No,No,19.7,No,No,Middle,No,2654.06,973.2,89,Yes
+Female,73,6,>70,High,High School,No,Yes,21.9,No,No,Bad,Yes,1426.76,768.25,60.3,Yes
+Male,78,6,>70,High,High School,No,Yes,22.7,No,Past,Bad,Yes,1905.5,717,68.36,Yes
+Female,46,3,41-51,Middle Low,Two-Three Years College,No,Yes,18.7,Yes,Past,Bad,No,1951.96,1796.61,61.6,Yes
+Female,19,1,<31,Middle Low,High School,No,No,22.3,Yes,No,Bad,No,1406.68,529.27,54.62,Yes
+Female,21,1,<31,Middle Low,College,No,No,20.4,Yes,No,Bad,No,2656.11,849.49,68.19,Yes
+Male,63,5,61-71,High,College,No,Yes,30.4,No,Past,Middle,No,1027.68,795.26,35.2,Yes
+Female,60,4,51-61,High,Graduate School,Yes,Yes,29.6,Yes,No,Good,No,1189.62,1474.24,34.05,Yes
+Male,31,1,<31,High,College,No,No,24.9,No,Past,Bad,No,1119.33,998.01,63.59,Yes
+Male,51,3,41-51,High,College,Yes,Yes,24.5,Yes,No,Bad,No,1832.62,1006.28,53.36,Yes
+Female,49,3,41-51,High,High School,No,Yes,28,Yes,No,Bad,No,1870.6,1339.61,49.48,Yes
+Male,21,1,<31,High,College,Yes,No,20.7,No,No,Bad,No,3795.72,2253.93,138.05,Yes
+Female,42,3,41-51,High,College,Yes,Yes,32,Yes,No,Bad,No,1852.94,1095.35,80.87,Yes
+Male,69,5,61-71,High,College,Yes,Yes,21.3,Yes,Past,Middle,Yes,1327.22,1254.19,63.98,Yes
+Male,53,4,51-61,Middle High,College,No,Yes,24.8,No,Current,Bad,No,2409.19,1431.19,78.45,Yes
+Female,57,4,51-61,Middle High,College,No,Yes,23.3,No,No,Bad,No,1705.5,454.14,59.65,Yes
+Female,20,1,<31,Middle High,College,Yes,No,16.3,Yes,No,Bad,Yes,1830.63,587.36,63.32,Yes
+Female,49,3,41-51,Middle High,High School,No,No,19.1,No,No,Bad,No,2004.99,1418.2,53.52,Yes
+Male,36,2,31-41,Middle Low,College,No,Yes,26.2,No,Past,Bad,No,3183.83,1895.98,83.38,Yes
+Female,34,2,31-41,Low,College,Yes,Yes,17.6,Yes,No,Good,No,1343.48,1395.34,44.31,Yes
+Female,43,3,41-51,Middle Low,College,No,Yes,21.4,Yes,No,Middle,No,1059.52,429.33,49.66,Yes
+Female,52,4,51-61,Middle Low,High School,No,Yes,27.1,Yes,No,Bad,Yes,1399.28,1070.34,46.15,Yes
+Female,74,6,>70,Low,Elementary School,Yes,Yes,22.4,No,No,Bad,Yes,1638.21,743.16,43.84,Yes
+Male,52,4,51-61,Low,High School,No,Yes,24.4,Yes,Past,Middle,No,1779.54,1167.37,80.66,Yes
+Female,48,3,41-51,Low,High School,Yes,Yes,27.7,Yes,No,Bad,Yes,1288.51,616.69,39.95,Yes
+Male,80,6,>70,Low,Elementary School,Yes,Yes,28.6,No,Past,Bad,No,1060.91,202.23,32.62,Yes
+Male,80,6,>70,Middle High,High School,No,Yes,21,No,Past,Bad,No,1437.58,875.62,79.31,No
+Male,80,6,>70,Middle Low,High School,No,Yes,19.8,No,Past,Bad,No,950.65,435.79,24.23,No
+Female,73,6,>70,Low,Elementary School,No,Yes,24.4,No,No,Bad,Yes,1312.71,1315.94,45.26,Yes
+Female,80,6,>70,Low,High School,No,Yes,20.9,No,No,Bad,No,897.36,169.95,20.47,No
+Female,38,2,31-41,Middle High,College,No,Yes,22.1,Yes,No,Bad,No,1985.55,727.35,50.68,No
+Female,67,5,61-71,Middle High,High School,No,Yes,22.8,No,No,Bad,Yes,1549.24,1402.25,82.44,No
+Male,73,6,>70,Middle Low,Elementary School,No,Yes,23.8,No,No,Bad,No,1010.26,254.15,39.69,Yes
+Female,65,5,61-71,Middle Low,Middle School,Yes,Yes,23.5,No,No,Bad,Yes,927.51,224.1,28.9,No
+Female,40,2,31-41,Low,Two-Three Years College,No,Yes,24.9,Yes,No,Bad,No,1111.92,307.87,42.61,No
+Male,55,4,51-61,High,Graduate School,No,Yes,22.6,Yes,Past,Middle,No,3123.76,1565.36,152.51,No
+Female,52,4,51-61,High,College,Yes,Yes,22.9,Yes,No,Middle,No,2852.9,1257.13,140.98,No
+Female,23,1,<31,High,College,No,No,18.6,No,No,Middle,No,1574.16,1217.77,47.48,No
+Female,56,4,51-61,High,Graduate School,No,Yes,21.5,Yes,No,Middle,No,3369.19,2017.96,103.83,No
+Male,56,4,51-61,High,Graduate School,No,Yes,25.5,Yes,Past,Middle,No,1226,589.25,50.93,No
+Female,44,3,41-51,High,Graduate School,No,Yes,18.6,No,No,Bad,No,2835.97,1407.35,91.55,No
+Male,46,3,41-51,Middle High,College,No,Yes,24,No,Past,Bad,No,2286.12,1538.41,68.64,No
+Male,43,3,41-51,Middle High,High School,No,No,24.7,No,Past,Bad,No,1866.47,1159.77,52.77,No
+Female,79,6,>70,High,High School,No,Yes,23.6,Yes,No,Bad,No,1280.32,752.31,32.04,No
+Female,61,4,51-61,Middle High,College,No,Yes,28.3,Yes,No,Bad,Yes,745.86,448.9,27.2,No
+Male,65,5,61-71,Middle High,Two-Three Years College,No,Yes,29.7,Yes,No,Middle,No,1677.37,1053.91,67.95,No
+Male,65,5,61-71,High,College,Yes,Yes,21.5,No,No,Good,No,1425.91,945.07,71.6,No
+Male,58,4,51-61,High,High School,No,Yes,23.5,Yes,Past,Bad,No,2176.24,846.05,71.71,No
+Female,46,3,41-51,High,College,Yes,Yes,21,Yes,No,Bad,No,2083.84,1266.24,52.26,Yes
+Male,28,1,<31,High,Two-Three Years College,No,No,23.2,No,Past,Bad,No,1630.52,1063.44,33.9,Yes
+Male,68,5,61-71,High,Graduate School,Yes,Yes,20.7,No,Current,Bad,No,1624.65,970.15,82.96,No
+Female,58,4,51-61,High,Graduate School,No,Yes,24.2,No,No,Middle,No,1370.5,1544.59,52.21,No
+Male,50,3,41-51,High,College,No,Yes,24.1,No,No,Bad,No,1546.98,808.41,52.18,No
+Female,49,3,41-51,High,College,No,Yes,26.5,Yes,No,Middle,No,712.46,557.33,50.75,No
+Male,49,3,41-51,High,Graduate School,No,Yes,20.9,Yes,Current,Middle,Yes,2194.07,1172.4,116.19,No
+Female,46,3,41-51,High,Graduate School,No,Yes,24.2,Yes,No,Bad,No,1203.21,1598.5,79.49,Yes
+Male,64,5,61-71,Middle Low,College,Yes,Yes,22,Yes,Past,Bad,No,3305.15,1830.63,146.39,No
+Female,55,4,51-61,Middle Low,College,Yes,Yes,20.4,Yes,No,Middle,No,1872.19,1676.87,92.84,No
+Female,74,6,>70,Middle High,High School,No,Yes,24.9,Yes,Current,Bad,Yes,2375.25,2080.45,94.78,No
+Male,75,6,>70,Middle High,High School,No,Yes,16.7,No,No,Bad,No,1555.72,607.66,64.45,No
+Male,56,4,51-61,High,College,No,Yes,26.8,Yes,Past,Bad,No,2177.25,1107.12,102.4,No
+Female,52,4,51-61,High,High School,No,Yes,22.7,Yes,No,Bad,No,903.94,552.32,33.9,No
+Male,48,3,41-51,High,Two-Three Years College,No,Yes,22.5,No,Past,Bad,No,2480.59,999.01,92.13,No
+Female,49,3,41-51,High,High School,No,Yes,24.3,Yes,No,Bad,No,1118.21,638.37,33.79,No
+Male,71,5,61-71,High,High School,No,Yes,21.9,Yes,Past,Bad,No,1576.12,886.16,58.98,No
+Female,66,5,61-71,High,High School,No,Yes,22.7,Yes,No,Middle,Yes,2209.09,1385.63,75.01,No
+Male,36,2,31-41,Middle High,Two-Three Years College,No,No,24.4,Yes,No,Bad,No,2005.81,1307.74,75.45,No
+Female,39,2,31-41,High,Graduate School,No,Yes,19.9,No,No,Middle,No,1759.61,449.03,58.88,No
+Male,44,3,41-51,High,College,No,Yes,26.1,Yes,Current,Bad,No,2005.19,1362.46,89.5,No
+Male,59,4,51-61,High,College,No,Yes,27.2,No,Current,Middle,No,1761.48,1459.41,60.1,No
+Female,59,4,51-61,High,College,Yes,Yes,21.6,Yes,No,Bad,No,1767.69,1105.61,69.41,No
+Female,64,5,61-71,High,College,Yes,Yes,21.2,Yes,No,Bad,Yes,401.7,235.07,16.95,No
+Male,65,5,61-71,High,Graduate School,Yes,Yes,24.8,Yes,No,Middle,Yes,1320.89,963.58,36.53,No
+Male,59,4,51-61,High,Graduate School,Yes,Yes,19.1,Yes,No,Bad,No,1885.96,838.27,70.78,No
+Female,59,4,51-61,High,High School,Yes,Yes,19.7,Yes,No,Bad,Yes,2071.61,1222,62.99,Yes
+Male,57,4,51-61,High,High School,No,Yes,27.9,Yes,No,Bad,Yes,1478.98,685.11,40.28,No
+Female,54,4,51-61,High,High School,Yes,Yes,22.6,Yes,No,Bad,Yes,4717.11,2579.94,151.58,No
+Female,25,1,<31,High,College,No,No,18.8,Yes,No,Bad,No,2332.03,1682.47,112.53,No
+Male,20,1,<31,High,College,Yes,No,20.7,Yes,Current,Bad,No,2958.11,1798.17,144.1,No
+Male,54,4,51-61,High,Graduate School,No,Yes,26.7,Yes,Past,Bad,Yes,2149.45,2642.32,68.84,No
+Female,51,3,41-51,High,Two-Three Years College,Yes,Yes,22.6,Yes,No,Middle,No,2012.05,1321.91,61.57,No
+Female,41,2,31-41,Low,Graduate School,Yes,No,25,No,No,Bad,No,4136.47,1203.75,131.58,No
+Female,63,5,61-71,Low,High School,No,Yes,25.1,No,No,Bad,No,658.84,206.09,12.49,No
+Male,56,4,51-61,Middle High,College,No,Yes,25.5,Yes,Past,Bad,Yes,2480.98,1215.03,72.77,No
+Female,54,4,51-61,Middle High,College,Yes,Yes,29.4,Yes,No,Bad,Yes,1958.49,1067.43,95.58,No
+Male,29,1,<31,Middle High,College,No,No,22,Yes,No,Middle,No,1359.39,754.16,41.78,No
+Male,51,3,41-51,High,Two-Three Years College,No,Yes,27.3,Yes,Past,Bad,Yes,3265.13,1835.14,207.65,No
+Female,50,3,41-51,High,Graduate School,No,Yes,29.3,Yes,No,Bad,No,1289.67,750.28,54.05,No
+Female,55,4,51-61,Low,High School,No,Yes,24.7,Yes,No,Bad,No,2349.45,825.48,86.65,No
+Male,61,4,51-61,Low,Middle School,Yes,Yes,28.9,Yes,Past,Bad,Yes,3504.35,361.17,113.34,Yes
+Female,80,6,>70,Low,High School,No,Yes,29.8,No,No,Bad,Yes,1115.1,372.61,26.03,No
+Female,49,3,41-51,Middle Low,High School,No,Yes,28.5,No,No,Bad,No,1774.47,697.1,68.05,No
+Female,65,5,61-71,Low,High School,No,Yes,24.2,No,No,Bad,No,1670.38,496.78,45.24,No
+Male,73,6,>70,Middle Low,High School,No,Yes,22.1,No,No,Bad,Yes,818.66,939.02,23.15,No
+Male,58,4,51-61,Low,High School,No,Yes,20.8,Yes,Current,Bad,No,816.57,277.03,28.65,No
+Male,71,5,61-71,Low,Elementary School,Yes,Yes,20.5,No,Current,Bad,No,1373.68,128.67,32.79,No
+Female,69,5,61-71,Low,Elementary School,Yes,Yes,21.4,Yes,Current,Bad,Yes,1473.63,375.72,47.07,Yes
+Male,63,5,61-71,Middle Low,High School,No,Yes,18.4,No,Current,Bad,No,1880.77,418.98,56.77,No
+Male,63,5,61-71,Low,Middle School,Yes,Yes,27.4,No,Past,Bad,Yes,726.13,212.2,24.37,Yes
+Male,59,4,51-61,Low,High School,Yes,Yes,20.5,No,Current,Bad,No,2603.89,0,13.62,Yes
+Male,73,6,>70,Low,Elementary School,Yes,Yes,23.5,Yes,Past,Bad,Yes,2177.8,844.47,80.45,Yes
+Female,64,5,61-71,Low,Elementary School,Yes,Yes,25.8,Yes,No,Bad,Yes,1040.59,454.46,50.66,Yes
+Female,78,6,>70,Middle Low,High School,No,Yes,22.7,No,No,Bad,Yes,2115.57,585.19,26.29,No
+Male,80,6,>70,Low,Elementary School,Yes,Yes,25.7,No,No,Bad,Yes,916.73,817.47,31.93,No
+Female,79,6,>70,Middle Low,High School,No,Yes,21.7,No,No,Bad,No,1272.27,884.46,40.93,No
+Female,80,6,>70,Middle High,High School,No,Yes,22.7,Yes,No,Bad,Yes,1036.9,437.06,25.08,No
+Female,55,4,51-61,Low,Middle School,Yes,Yes,18.7,No,No,Bad,No,1248.15,725.13,51.23,No
+Male,27,1,<31,Low,High School,No,No,16.7,No,No,Bad,No,2389.25,1033.14,92.31,No
+Female,80,6,>70,Low,High School,No,Yes,24.8,No,No,Bad,Yes,310.01,69.35,7.96,No
+Male,73,6,>70,Low,College,Yes,Yes,25.3,No,Past,Middle,No,1360.71,1235.47,52.41,No
+Female,72,6,>70,Middle Low,Middle School,Yes,Yes,25.9,No,No,Bad,Yes,1313.99,1060.87,51.21,No
+Male,73,6,>70,Middle Low,Elementary School,Yes,Yes,25.2,No,Past,Bad,No,2396.87,1966.09,119.57,No
+Male,71,5,61-71,Middle High,Middle School,No,Yes,21.1,No,Past,Bad,Yes,2243.38,1092.59,82.09,Yes
+Female,66,5,61-71,Middle High,Middle School,No,Yes,21.3,Yes,No,Bad,Yes,1952.75,1054.69,73.16,Yes
+Male,73,6,>70,Middle Low,Middle School,Yes,Yes,20.6,No,Past,Bad,No,1429.24,679.89,37.72,No
+Male,70,5,61-71,Middle Low,High School,No,Yes,22.7,Yes,Past,Bad,Yes,2116.13,1455.61,70.07,No
+Male,64,5,61-71,Low,Middle School,Yes,Yes,25,Yes,Current,Bad,Yes,1479.52,1046.11,31.32,No
+Male,66,5,61-71,Low,Middle School,Yes,Yes,23.1,No,Current,Bad,Yes,1638.1,481.12,50.49,Yes
+Female,59,4,51-61,Low,Elementary School,No,Yes,30.3,Yes,No,Bad,Yes,905.24,652.46,21.21,No
+Female,61,4,51-61,Middle High,High School,No,Yes,24.2,No,No,Bad,No,1917.28,2182.62,64.1,Yes
+Female,34,2,31-41,Middle Low,High School,No,Yes,20.7,No,Current,Middle,No,2497.9,706.9,91.1,No
