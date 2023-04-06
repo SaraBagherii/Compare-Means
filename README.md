@@ -11,6 +11,6 @@ Sex, Education, height, Job, Marry, Bckground_history, Smoking, reading, writing
 Two Groups based on the results of their COVID-19 tests(positive and negative):
 Target= Yes or No
 ### Result
-The results show that there is a significant association between some of the demographic characteristics (Including: sex, height, Job, Marry, Smoking, reading, Age, Blood) and COVID-19 status (p-value < 0.05). 
+The results show that there is a significant association between some of the demographic characteristics (Including: sex, height, Job, Marry, Smoking, reading, Age, Blood) and COVID-19 status (p-value < 0.05). So these demographic characteristics can contribute to the community spread of COVID-19.
 
 While there is not a significant association between some of the demographic characteristics(Including: Education, Bckground_history, writing, biomarker_1, biomarker_2, biomarker_3) and COVID-19 status (p-value > 0.05). 
